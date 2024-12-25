@@ -1,0 +1,505 @@
+{
+  "pages": {
+    "auth": {
+      "title": "Login",
+      "head": "Welcome!",
+      "desc": "Please enter your username and password.",
+      "fields": {
+        "passwd": "Password"
+      },
+      "buttons": {
+        "login": "Login",
+        "logout": "Logout",
+        "profile": "Profile"
+      },
+      "messages": {
+        "required": {
+          "passwd": "Please enter your password."
+        }
+      }
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "tabs": {
+        "month": "Month",
+        "week": "Week",
+        "day": "Day"
+      },
+      "most": {
+        "activeUser": "Most Active User",
+        "activeRegion": "Most Active Region",
+        "activeProduct": "Most Active Product"
+      },
+      "status": {
+        "title": "Statuses",
+        "toLogistician": "With Logistician",
+        "toCourier": "With Courier",
+        "pending": "Pending",
+        "canceled": "Canceled",
+        "delivered": "Successfully Delivered"
+      },
+      "noOrders": "No orders yet",
+      "ordersCount": "Number of orders",
+      "numberOfSales": "Number of sales",
+      "calendar": "Calendar"
+    },
+    "profile": {
+      "uploadImage": "Upload image"
+    },
+    "users": {
+      "title": "Users",
+      "columns": {
+        "name": "Name",
+        "username": "Username",
+        "salary": "Salary",
+        "passwd": "Password",
+        "role": "Role",
+        "shift": "Shift",
+        "isBoss": "Boss",
+        "yes": "Yes",
+        "no": "No",
+        "createdAt": "Created At"
+      },
+      "search": {
+        "placeholder": "By username"
+      },
+      "create": {
+        "title": "Create User",
+        "buttons": {
+          "create": "Create User",
+          "back": "Back"
+        },
+        "fields": {
+          "name": "Name",
+          "username": "Username",
+          "salary": "Salary",
+          "passwd": "Password",
+          "role": "Role",
+          "shift": "Shift",
+          "isBoss": "Is Boss?",
+          "assistants": "Assistants"
+        },
+        "messages": {
+          "required": "This field only works after selecting a role!"
+        },
+        "image": "Image"
+      },
+      "edit": {
+        "title": "Edit User",
+        "buttons": {
+          "save": "Save",
+          "back": "Back"
+        },
+        "image": "Image"
+      }
+    },
+    "orders": {
+      "title": "Orders",
+      "search": {
+        "placeholder": "(by F.I.O, Phone number, Regions, Addresses)"
+      },
+      "table": {
+        "columns": {
+          "status": "Status",
+          "fullName": "Full Name",
+          "phoneNumber": "Phone Number",
+          "products": "Products",
+          "location": "Location",
+          "operators": "Operators",
+          "logisticians": "Logisticians",
+          "couriers": "Couriers",
+          "shifts": "Shifts",
+          "address": "Address",
+          "regions": "Regions",
+          "createdAt": "Created At",
+          "updatedAt": "Updated At"
+        },
+        "rowActions": {
+          "see": "View",
+          "edit": "Edit",
+          "cancel": "Cancel",
+          "delete": "Delete"
+        }
+      },
+      "create": {
+        "title": "Create Order",
+        "fields": {
+          "fullName": "Full Name",
+          "phoneNumber": "Phone Number",
+          "selPayments": "Select Payment Type",
+          "selProducts": "Select Products",
+          "regions": "Regions",
+          "districts": "Cities and Districts",
+          "villages": "Villages",
+          "address": "Address",
+          "selLogistician": "Select Logistician"
+        },
+        "buttons": {
+          "save": "Create Order",
+          "back": "Back"
+        },
+        "messages": {
+          "required": "Please select a role: admin, logistician, courier, accountant, operator."
+        }
+      },
+      "details": {
+        "title": "Order Details",
+        "edit": "Edit",
+        "delete": "Delete",
+        "back": "Back",
+        "fields": {
+          "fullName": "Full Name",
+          "createdAt": "Order Creation Time",
+          "createdBy": "Created By",
+          "responsibleLogistician": "Responsible Logistician",
+          "responsibleCourier": "Responsible Courier",
+          "status": "Order Status",
+          "phoneNumber": "Phone Number",
+          "products": "Products",
+          "location": "Location",
+          "address": "Address",
+          "paymentsType": "Payments type",
+          "editingHistory": "Editing history"
+        },
+        "requireMsg": "Only an operator can make changes here",
+        "enterMessage": "Enter your message..."
+      },
+      "edit": {
+        "title": "Edit Order",
+        "fields": {
+          "addCourier": "Add Courier to Order"
+        },
+        "placeholder": "Select a courier",
+        "buttons": {
+          "back": "Go Back",
+          "update": "Update Order"
+        }
+      }
+    },
+    "accountant": {
+      "title": "Accountant",
+      "search": {
+        "placeholder": "By name"
+      },
+      "table": {
+        "columns": {
+          "name": "Name",
+          "totalPrice": "Total Price",
+          "count": "Count"
+        }
+      }
+    },
+    "settings": {
+      "products": {
+        "title": "Products",
+        "table": {
+          "columns": {
+            "title": "Title",
+            "price": "Price",
+            "comment": "Comment",
+            "createdAt": "Created At"
+          }
+        },
+        "buttons": {
+          "add": "Add"
+        },
+        "create": {
+          "title": "Create Product",
+          "fields": {
+            "heading": "Title",
+            "price": "Price",
+            "comment": "Comment"
+          },
+          "buttons": {
+            "create": "Create",
+            "back": "Back"
+          },
+          "placeholder": {
+            "enterTitle": "Enter Title",
+            "enterComment": "Enter Comment"
+          }
+        },
+        "edit": {
+          "title": "Edit Product",
+          "fields": {
+            "heading": "Title",
+            "price": "Price",
+            "comment": "Comment"
+          },
+          "buttons": {
+            "save": "Save Changes",
+            "back": "Back"
+          }
+        },
+        "details": {
+          "product": "Product",
+          "title": "Title",
+          "price": "Price",
+          "comment": "Comment",
+          "buttons": {
+            "back": "Back",
+            "change": "Change"
+          }
+        }
+      },
+      "location": {
+        "title": "Location Addresses",
+        "table": {
+          "columns": {
+            "location": "Location",
+            "address": "Address",
+            "createdAt": "Created At"
+          }
+        },
+        "search": {
+          "placeholder": "By location"
+        }
+      }
+    },
+    "404": {
+      "title": "Oops! Page Not Found!",
+      "head": "The page you are looking for",
+      "desc": "may not exist or has been removed.",
+      "buttons": {
+        "back": "Go Back",
+        "backHome": "Go Back Home"
+      }
+    }
+  },
+  "global": {
+    "table": {
+      "buttons": {
+        "edit": "Edit",
+        "delete": "Delete",
+        "see": "See",
+        "cancel": "Cancel",
+        "disable": "Disable",
+        "enable": "Enable"
+      },
+      "search": {
+        "title": "Search",
+        "placeholder": "By title"
+      },
+      "toolbar": {
+        "clear": "Clear",
+        "noResults": "No results found."
+      },
+      "colHead": {
+        "asc": "Ascending",
+        "dec": "Descending",
+        "hide": "Hide"
+      },
+      "pagination": {
+        "page": "Page",
+        "of": "of",
+        "totalOrders": "Total orders",
+        "totalUsers": "Total users",
+        "totalProducts": "Total products",
+        "totalLocations": "Total locations",
+        "totalAccountant": "Total accounting"
+      },
+      "emptyData": "No data available"
+    },
+    "selectPlaceholder": "select",
+    "createdAt": "Created",
+    "messages": {
+      "required": {
+        "field": "This field is required",
+        "minLength": "Must be at least {{count}} characters long."
+      }
+    },
+    "multiselect": {
+      "search": {
+        "title": "Search...",
+        "noResults": "No results found"
+      },
+      "clear": "Clear",
+      "close": "Close",
+      "selectAll": "Select All"
+    },
+    "order": {
+      "created": {
+        "title": "New Order",
+        "desc": "You have received a new order. Please check the details."
+      },
+      "updated": {
+        "title": "Order Updated",
+        "desc": "The order has been updated. Please check the details."
+      }
+    }
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "orders": "Orders",
+    "accountant": "Accounting",
+    "warehouse": "Warehouse",
+    "settings": {
+      "title": "Settings",
+      "products": "Products",
+      "locations": "Location Addresses"
+    }
+  },
+  "toastMessages": {
+    "auth": {
+      "success": {
+        "title": "Login Successful!",
+        "desc": "You have logged in successfully."
+      },
+      "error": {
+        "title": "Login Error!",
+        "desc": "Username or password is incorrect.",
+        "unauthorized": {
+          "title": "Login Error!",
+          "message": "Your password does not match, please try again."
+        }
+      }
+    },
+    "users": {
+      "create": {
+        "success": {
+          "title": "User Created",
+          "desc": "User has been created successfully."
+        },
+        "error": {
+          "title": "Error Creating User!",
+          "desc": "An error occurred while creating the user. Please try again.",
+          "duplicate": {
+            "title": "Duplicate User Error!",
+            "desc": "A user with this information already exists."
+          }
+        }
+      },
+      "edit": {
+        "success": {
+          "title": "User Updated",
+          "desc": "User has been updated successfully."
+        },
+        "error": {
+          "title": "Error Updating User!",
+          "desc": "An error occurred while updating the user. Please try again."
+        }
+      },
+      "delete": {
+        "success": {
+          "title": "User Deleted",
+          "desc": "User has been deleted successfully."
+        },
+        "error": {
+          "title": "Error Deleting User!",
+          "desc": "An error occurred while deleting the user. Please try again."
+        }
+      },
+      "actions": {
+        "disable": {
+          "success": {
+            "title": "User Disabled!",
+            "desc": "The user was successfully disabled."
+          },
+          "error": {
+            "title": "Error Disabling User!",
+            "desc": "There was an issue disabling the user. Please try again."
+          }
+        },
+        "enable": {
+          "success": {
+            "title": "User Enabled!",
+            "desc": "The user was successfully enabled."
+          },
+          "error": {
+            "title": "Error Enabling User!",
+            "desc": "There was an issue enabling the user. Please try again."
+          }
+        }
+      }
+    },
+    "orders": {
+      "create": {
+        "success": {
+          "title": "Order Created",
+          "desc": "Order has been created successfully."
+        },
+        "error": {
+          "title": "Error Creating Order!",
+          "desc": "An error occurred while creating the order. Please try again."
+        }
+      },
+      "update": {
+        "success": {
+          "title": "Order Updated",
+          "desc": "Order has been updated successfully."
+        },
+        "error": {
+          "title": "Error Updating Order!",
+          "desc": "An error occurred while updating the order. Please try again."
+        }
+      },
+      "delete": {
+        "success": {
+          "title": "Order Deleted",
+          "desc": "Order has been deleted successfully."
+        },
+        "error": {
+          "title": "Error Deleting Order!",
+          "desc": "An error occurred while deleting the order. Please try again."
+        }
+      }
+    },
+    "accountant": {
+      "success": {
+        "title": "Success!",
+        "desc": "Action completed successfully."
+      },
+      "error": {
+        "title": "Error!",
+        "desc": "An error occurred. Please try again."
+      }
+    },
+    "settings": {
+      "products": {
+        "create": {
+          "success": {
+            "title": "Product Created",
+            "desc": "Product has been created successfully."
+          },
+          "error": {
+            "title": "Error Creating Product!",
+            "desc": "An error occurred while creating the product. Please try again."
+          }
+        },
+        "update": {
+          "success": {
+            "title": "Product Updated",
+            "desc": "Product has been updated successfully."
+          },
+          "error": {
+            "title": "Error Updating Product!",
+            "desc": "An error occurred while updating the product. Please try again."
+          }
+        },
+        "delete": {
+          "success": {
+            "title": "Product Deleted",
+            "desc": "Product has been deleted successfully."
+          },
+          "error": {
+            "title": "Error Deleting Product!",
+            "desc": "An error occurred while deleting the product. Please try again."
+          }
+        }
+      }
+    },
+    "500": {
+      "title": "Server Error!",
+      "desc": "A server error has occurred! Everything will be up and running soon!"
+    }
+  },
+  "roles": {
+    "admin": "Admin",
+    "logistician": "Logistician",
+    "courier": "Courier",
+    "accountant": "Accountant",
+    "operator": "Operator",
+    "warehouse": "Warehouse"
+  }
+}

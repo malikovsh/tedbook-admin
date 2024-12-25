@@ -1,0 +1,7857 @@
+[
+  {
+    "id": "1",
+    "district_id": "31",
+    "name_uz": "Ayrilish"
+  },
+  {
+    "id": "2",
+    "district_id": "31",
+    "name_uz": "Butaqora"
+  },
+  {
+    "id": "3",
+    "district_id": "31",
+    "name_uz": "Bo'taqora"
+  },
+  {
+    "id": "4",
+    "district_id": "31",
+    "name_uz": "Guliston"
+  },
+  {
+    "id": "5",
+    "district_id": "31",
+    "name_uz": "Gulobod"
+  },
+  {
+    "id": "6",
+    "district_id": "31",
+    "name_uz": "Gumbaz"
+  },
+  {
+    "id": "7",
+    "district_id": "31",
+    "name_uz": "Yorboshi"
+  },
+  {
+    "id": "8",
+    "district_id": "31",
+    "name_uz": "Zavroq"
+  },
+  {
+    "id": "9",
+    "district_id": "31",
+    "name_uz": "Kuyganyor"
+  },
+  {
+    "id": "10",
+    "district_id": "31",
+    "name_uz": "Kunji"
+  },
+  {
+    "id": "11",
+    "district_id": "31",
+    "name_uz": "Qoraqalpoq"
+  },
+  {
+    "id": "12",
+    "district_id": "31",
+    "name_uz": "Qo'nji"
+  },
+  {
+    "id": "13",
+    "district_id": "31",
+    "name_uz": "Qo'shariq"
+  },
+  {
+    "id": "14",
+    "district_id": "31",
+    "name_uz": "Nayman"
+  },
+  {
+    "id": "15",
+    "district_id": "31",
+    "name_uz": "Namuna"
+  },
+  {
+    "id": "16",
+    "district_id": "31",
+    "name_uz": "Og'ullik"
+  },
+  {
+    "id": "17",
+    "district_id": "31",
+    "name_uz": "Oq-yor"
+  },
+  {
+    "id": "19",
+    "district_id": "31",
+    "name_uz": "Orol"
+  },
+  {
+    "id": "20",
+    "district_id": "31",
+    "name_uz": "Rovvot"
+  },
+  {
+    "id": "21",
+    "district_id": "31",
+    "name_uz": "Xakan"
+  },
+  {
+    "id": "22",
+    "district_id": "31",
+    "name_uz": "Xartum"
+  },
+  {
+    "id": "24",
+    "district_id": "31",
+    "name_uz": "Xrabek"
+  },
+  {
+    "id": "25",
+    "district_id": "31",
+    "name_uz": "Chilon"
+  },
+  {
+    "id": "26",
+    "district_id": "31",
+    "name_uz": "Chumbog'ich"
+  },
+  {
+    "id": "27",
+    "district_id": "31",
+    "name_uz": "Ekin tikin"
+  },
+  {
+    "id": "28",
+    "district_id": "31",
+    "name_uz": "Yangiobod"
+  },
+  {
+    "id": "29",
+    "district_id": "32",
+    "name_uz": "Asaka"
+  },
+  {
+    "id": "30",
+    "district_id": "32",
+    "name_uz": "Zarbdor"
+  },
+  {
+    "id": "31",
+    "district_id": "32",
+    "name_uz": "Ilg'or"
+  },
+  {
+    "id": "32",
+    "district_id": "32",
+    "name_uz": "Kujgan"
+  },
+  {
+    "id": "34",
+    "district_id": "32",
+    "name_uz": "Qadim"
+  },
+  {
+    "id": "35",
+    "district_id": "32",
+    "name_uz": "Qoratepa"
+  },
+  {
+    "id": "36",
+    "district_id": "32",
+    "name_uz": "Mustahkam"
+  },
+  {
+    "id": "37",
+    "district_id": "32",
+    "name_uz": "Navkan"
+  },
+  {
+    "id": "38",
+    "district_id": "32",
+    "name_uz": "Niyozbotir"
+  },
+  {
+    "id": "39",
+    "district_id": "32",
+    "name_uz": "Oqbo'yra"
+  },
+  {
+    "id": "40",
+    "district_id": "32",
+    "name_uz": "T.Aliyev"
+  },
+  {
+    "id": "41",
+    "district_id": "32",
+    "name_uz": "O'zbekiston"
+  },
+  {
+    "id": "42",
+    "district_id": "33",
+    "name_uz": "Baliqchi"
+  },
+  {
+    "id": "44",
+    "district_id": "33",
+    "name_uz": "Bo'ston"
+  },
+  {
+    "id": "46",
+    "district_id": "33",
+    "name_uz": "Olimbek"
+  },
+  {
+    "id": "47",
+    "district_id": "33",
+    "name_uz": "Oxunboboyev nomli"
+  },
+  {
+    "id": "48",
+    "district_id": "33",
+    "name_uz": "Siza"
+  },
+  {
+    "id": "49",
+    "district_id": "33",
+    "name_uz": "O'rmonbek"
+  },
+  {
+    "id": "50",
+    "district_id": "33",
+    "name_uz": "Xo'jaobod"
+  },
+  {
+    "id": "52",
+    "district_id": "33",
+    "name_uz": "Chinobod markaz"
+  },
+  {
+    "id": "53",
+    "district_id": "33",
+    "name_uz": "Eskixaqqulobod"
+  },
+  {
+    "id": "54",
+    "district_id": "35",
+    "name_uz": "Bo'z"
+  },
+  {
+    "id": "55",
+    "district_id": "35",
+    "name_uz": "M.Jalolov nomli"
+  },
+  {
+    "id": "57",
+    "district_id": "35",
+    "name_uz": "Xovos"
+  },
+  {
+    "id": "58",
+    "district_id": "35",
+    "name_uz": "Xoldevonbek"
+  },
+  {
+    "id": "60",
+    "district_id": "34",
+    "name_uz": "Andijon"
+  },
+  {
+    "id": "61",
+    "district_id": "34",
+    "name_uz": "Buloqboshi"
+  },
+  {
+    "id": "63",
+    "district_id": "34",
+    "name_uz": "Kulla"
+  },
+  {
+    "id": "64",
+    "district_id": "34",
+    "name_uz": "Mayariq"
+  },
+  {
+    "id": "66",
+    "district_id": "34",
+    "name_uz": "Uchtepa"
+  },
+  {
+    "id": "67",
+    "district_id": "34",
+    "name_uz": "Shirmonbuloq"
+  },
+  {
+    "id": "69",
+    "district_id": "36",
+    "name_uz": "Abdullabiy"
+  },
+  {
+    "id": "70",
+    "district_id": "36",
+    "name_uz": "Beshtal"
+  },
+  {
+    "id": "71",
+    "district_id": "36",
+    "name_uz": "Beshtol"
+  },
+  {
+    "id": "73",
+    "district_id": "36",
+    "name_uz": "Yorqishloq"
+  },
+  {
+    "id": "75",
+    "district_id": "36",
+    "name_uz": "Jalaquduq"
+  },
+  {
+    "id": "77",
+    "district_id": "36",
+    "name_uz": "Jalolquduq"
+  },
+  {
+    "id": "78",
+    "district_id": "36",
+    "name_uz": "Janubiy olamushuk"
+  },
+  {
+    "id": "79",
+    "district_id": "36",
+    "name_uz": "Ko'kalam"
+  },
+  {
+    "id": "80",
+    "district_id": "36",
+    "name_uz": "Qatortol"
+  },
+  {
+    "id": "81",
+    "district_id": "36",
+    "name_uz": "Qo'shtepa"
+  },
+  {
+    "id": "82",
+    "district_id": "36",
+    "name_uz": "Oyim"
+  },
+  {
+    "id": "83",
+    "district_id": "36",
+    "name_uz": "Teshiktosh"
+  },
+  {
+    "id": "84",
+    "district_id": "37",
+    "name_uz": "Gurkirov"
+  },
+  {
+    "id": "85",
+    "district_id": "37",
+    "name_uz": "Izboskan"
+  },
+  {
+    "id": "86",
+    "district_id": "37",
+    "name_uz": "Maygir"
+  },
+  {
+    "id": "89",
+    "district_id": "37",
+    "name_uz": "Paytug"
+  },
+  {
+    "id": "90",
+    "district_id": "37",
+    "name_uz": "To'rtko'l"
+  },
+  {
+    "id": "91",
+    "district_id": "37",
+    "name_uz": "Uzun ko'cha"
+  },
+  {
+    "id": "92",
+    "district_id": "37",
+    "name_uz": "O'rtoqlar"
+  },
+  {
+    "id": "93",
+    "district_id": "37",
+    "name_uz": "Shermatobod"
+  },
+  {
+    "id": "94",
+    "district_id": "37",
+    "name_uz": "Erkin"
+  },
+  {
+    "id": "95",
+    "district_id": "37",
+    "name_uz": "Yakkatut"
+  },
+  {
+    "id": "96",
+    "district_id": "37",
+    "name_uz": "Yangi qishloq"
+  },
+  {
+    "id": "97",
+    "district_id": "37",
+    "name_uz": "Yangizamon"
+  },
+  {
+    "id": "98",
+    "district_id": "39",
+    "name_uz": "Dardok"
+  },
+  {
+    "id": "99",
+    "district_id": "39",
+    "name_uz": "Qorasuv"
+  },
+  {
+    "id": "100",
+    "district_id": "39",
+    "name_uz": "Qo'rg'ontepa"
+  },
+  {
+    "id": "102",
+    "district_id": "39",
+    "name_uz": "Savay"
+  },
+  {
+    "id": "103",
+    "district_id": "39",
+    "name_uz": "Sultonobod"
+  },
+  {
+    "id": "105",
+    "district_id": "39",
+    "name_uz": "Chimyon"
+  },
+  {
+    "id": "106",
+    "district_id": "40",
+    "name_uz": "Boboxuroson"
+  },
+  {
+    "id": "107",
+    "district_id": "40",
+    "name_uz": "Ko'tarma"
+  },
+  {
+    "id": "109",
+    "district_id": "40",
+    "name_uz": "Qorabog'ish"
+  },
+  {
+    "id": "111",
+    "district_id": "40",
+    "name_uz": "Qoraqo'rg'on"
+  },
+  {
+    "id": "113",
+    "district_id": "40",
+    "name_uz": "Marxamat"
+  },
+  {
+    "id": "116",
+    "district_id": "40",
+    "name_uz": "Polvontosh"
+  },
+  {
+    "id": "117",
+    "district_id": "40",
+    "name_uz": "Rovot"
+  },
+  {
+    "id": "118",
+    "district_id": "40",
+    "name_uz": "O'qchi"
+  },
+  {
+    "id": "119",
+    "district_id": "40",
+    "name_uz": "Xakka"
+  },
+  {
+    "id": "120",
+    "district_id": "40",
+    "name_uz": "Xo'jaariq"
+  },
+  {
+    "id": "121",
+    "district_id": "40",
+    "name_uz": "Shukurmergan"
+  },
+  {
+    "id": "123",
+    "district_id": "41",
+    "name_uz": "Dalvarzin"
+  },
+  {
+    "id": "124",
+    "district_id": "41",
+    "name_uz": "Jalabek"
+  },
+  {
+    "id": "126",
+    "district_id": "41",
+    "name_uz": "Ijtimoiyat"
+  },
+  {
+    "id": "127",
+    "district_id": "41",
+    "name_uz": "Kumakay"
+  },
+  {
+    "id": "130",
+    "district_id": "41",
+    "name_uz": "Qo'shtepasaroy"
+  },
+  {
+    "id": "131",
+    "district_id": "41",
+    "name_uz": "Madaniy mehnat"
+  },
+  {
+    "id": "132",
+    "district_id": "41",
+    "name_uz": "Markaz"
+  },
+  {
+    "id": "133",
+    "district_id": "41",
+    "name_uz": "Maslahat"
+  },
+  {
+    "id": "136",
+    "district_id": "41",
+    "name_uz": "Oltinko'l"
+  },
+  {
+    "id": "137",
+    "district_id": "41",
+    "name_uz": "Oraziy"
+  },
+  {
+    "id": "139",
+    "district_id": "41",
+    "name_uz": "Suvyulduz"
+  },
+  {
+    "id": "140",
+    "district_id": "41",
+    "name_uz": "Xondibog'i"
+  },
+  {
+    "id": "142",
+    "district_id": "42",
+    "name_uz": "Do'stlik"
+  },
+  {
+    "id": "144",
+    "district_id": "42",
+    "name_uz": "Ittifoq"
+  },
+  {
+    "id": "145",
+    "district_id": "42",
+    "name_uz": "Madaniyat"
+  },
+  {
+    "id": "146",
+    "district_id": "42",
+    "name_uz": "Paxtakor"
+  },
+  {
+    "id": "147",
+    "district_id": "42",
+    "name_uz": "Paxtaobod"
+  },
+  {
+    "id": "148",
+    "district_id": "42",
+    "name_uz": "Pushmon"
+  },
+  {
+    "id": "149",
+    "district_id": "42",
+    "name_uz": "Uyg'ur"
+  },
+  {
+    "id": "150",
+    "district_id": "43",
+    "name_uz": "Mingbuloq"
+  },
+  {
+    "id": "151",
+    "district_id": "43",
+    "name_uz": "Mingchinor"
+  },
+  {
+    "id": "152",
+    "district_id": "43",
+    "name_uz": "Navoiy nomli"
+  },
+  {
+    "id": "153",
+    "district_id": "43",
+    "name_uz": "Oq oltin"
+  },
+  {
+    "id": "155",
+    "district_id": "44",
+    "name_uz": "Xonobod"
+  },
+  {
+    "id": "157",
+    "district_id": "45",
+    "name_uz": "Birlashgan"
+  },
+  {
+    "id": "159",
+    "district_id": "45",
+    "name_uz": "Dilkushod"
+  },
+  {
+    "id": "161",
+    "district_id": "45",
+    "name_uz": "Manak"
+  },
+  {
+    "id": "163",
+    "district_id": "45",
+    "name_uz": "Oltin vodiy"
+  },
+  {
+    "id": "164",
+    "district_id": "45",
+    "name_uz": "Xidirsha"
+  },
+  {
+    "id": "167",
+    "district_id": "46",
+    "name_uz": "Abdubiy"
+  },
+  {
+    "id": "168",
+    "district_id": "46",
+    "name_uz": "Vaxim"
+  },
+  {
+    "id": "170",
+    "district_id": "46",
+    "name_uz": "Nazarmaxram"
+  },
+  {
+    "id": "171",
+    "district_id": "46",
+    "name_uz": "Naynavo"
+  },
+  {
+    "id": "173",
+    "district_id": "46",
+    "name_uz": "Segaza kum"
+  },
+  {
+    "id": "174",
+    "district_id": "46",
+    "name_uz": "Toshtepa"
+  },
+  {
+    "id": "176",
+    "district_id": "46",
+    "name_uz": "O'rta Shaxrixon"
+  },
+  {
+    "id": "177",
+    "district_id": "46",
+    "name_uz": "Xaqiqat"
+  },
+  {
+    "id": "178",
+    "district_id": "46",
+    "name_uz": "Cho'ja"
+  },
+  {
+    "id": "180",
+    "district_id": "46",
+    "name_uz": "Shaxrixon"
+  },
+  {
+    "id": "181",
+    "district_id": "46",
+    "name_uz": "Yuqori Shaxrixon"
+  },
+  {
+    "id": "182",
+    "district_id": "46",
+    "name_uz": "Yangi yo'l"
+  },
+  {
+    "id": "183",
+    "district_id": "48",
+    "name_uz": "Arabxona"
+  },
+  {
+    "id": "184",
+    "district_id": "48",
+    "name_uz": "Bog'ikalon"
+  },
+  {
+    "id": "185",
+    "district_id": "48",
+    "name_uz": "Gala Osiyo"
+  },
+  {
+    "id": "186",
+    "district_id": "48",
+    "name_uz": "Gulshanobod"
+  },
+  {
+    "id": "187",
+    "district_id": "48",
+    "name_uz": "Dexcha"
+  },
+  {
+    "id": "188",
+    "district_id": "48",
+    "name_uz": "Istiqbol"
+  },
+  {
+    "id": "189",
+    "district_id": "48",
+    "name_uz": "Kunjiqal?a"
+  },
+  {
+    "id": "190",
+    "district_id": "48",
+    "name_uz": "Ko'chko'mar"
+  },
+  {
+    "id": "191",
+    "district_id": "48",
+    "name_uz": "Qavola Maxmud"
+  },
+  {
+    "id": "192",
+    "district_id": "48",
+    "name_uz": "Podshoyi"
+  },
+  {
+    "id": "193",
+    "district_id": "48",
+    "name_uz": "Rabotak"
+  },
+  {
+    "id": "194",
+    "district_id": "48",
+    "name_uz": "Rabotiqalmoq"
+  },
+  {
+    "id": "195",
+    "district_id": "48",
+    "name_uz": "Saxovat"
+  },
+  {
+    "id": "196",
+    "district_id": "48",
+    "name_uz": "Sohibkor"
+  },
+  {
+    "id": "197",
+    "district_id": "48",
+    "name_uz": "So'fikorgar"
+  },
+  {
+    "id": "198",
+    "district_id": "48",
+    "name_uz": "O'rta Novmetan"
+  },
+  {
+    "id": "199",
+    "district_id": "48",
+    "name_uz": "Xumini bolo"
+  },
+  {
+    "id": "200",
+    "district_id": "48",
+    "name_uz": "Shergiron"
+  },
+  {
+    "id": "201",
+    "district_id": "48",
+    "name_uz": "Shexoncha"
+  },
+  {
+    "id": "202",
+    "district_id": "48",
+    "name_uz": "Yangi Turmush"
+  },
+  {
+    "id": "204",
+    "district_id": "49",
+    "name_uz": "Vobkent"
+  },
+  {
+    "id": "205",
+    "district_id": "49",
+    "name_uz": "Imomqazixon"
+  },
+  {
+    "id": "206",
+    "district_id": "49",
+    "name_uz": "Kosari"
+  },
+  {
+    "id": "207",
+    "district_id": "49",
+    "name_uz": "Kumushkent"
+  },
+  {
+    "id": "208",
+    "district_id": "49",
+    "name_uz": "Qipchoq"
+  },
+  {
+    "id": "209",
+    "district_id": "49",
+    "name_uz": "Qo'ng'irot"
+  },
+  {
+    "id": "210",
+    "district_id": "49",
+    "name_uz": "Navbahor"
+  },
+  {
+    "id": "211",
+    "district_id": "49",
+    "name_uz": "Pirmast"
+  },
+  {
+    "id": "212",
+    "district_id": "49",
+    "name_uz": "Roxkent"
+  },
+  {
+    "id": "213",
+    "district_id": "49",
+    "name_uz": "Xayrobotcha"
+  },
+  {
+    "id": "214",
+    "district_id": "49",
+    "name_uz": "Xayrxush"
+  },
+  {
+    "id": "215",
+    "district_id": "49",
+    "name_uz": "Xalach"
+  },
+  {
+    "id": "216",
+    "district_id": "49",
+    "name_uz": "Shirin"
+  },
+  {
+    "id": "217",
+    "district_id": "49",
+    "name_uz": "Exson"
+  },
+  {
+    "id": "218",
+    "district_id": "49",
+    "name_uz": "Yangikent"
+  },
+  {
+    "id": "219",
+    "district_id": "50",
+    "name_uz": "Abadi"
+  },
+  {
+    "id": "220",
+    "district_id": "50",
+    "name_uz": "Armechan"
+  },
+  {
+    "id": "221",
+    "district_id": "50",
+    "name_uz": "Beshtuvo"
+  },
+  {
+    "id": "222",
+    "district_id": "50",
+    "name_uz": "Buktaroy"
+  },
+  {
+    "id": "223",
+    "district_id": "50",
+    "name_uz": "G.Yunusov nomli"
+  },
+  {
+    "id": "224",
+    "district_id": "50",
+    "name_uz": "Gajdumak"
+  },
+  {
+    "id": "225",
+    "district_id": "50",
+    "name_uz": "G'ijduvon"
+  },
+  {
+    "id": "226",
+    "district_id": "50",
+    "name_uz": "G'ovshun"
+  },
+  {
+    "id": "227",
+    "district_id": "50",
+    "name_uz": "Dodarak"
+  },
+  {
+    "id": "228",
+    "district_id": "50",
+    "name_uz": "Jovgari"
+  },
+  {
+    "id": "229",
+    "district_id": "50",
+    "name_uz": "Zarangari"
+  },
+  {
+    "id": "230",
+    "district_id": "50",
+    "name_uz": "Ko'kcha"
+  },
+  {
+    "id": "231",
+    "district_id": "50",
+    "name_uz": "Ko'lijabbor"
+  },
+  {
+    "id": "232",
+    "district_id": "50",
+    "name_uz": "Qaraxoni"
+  },
+  {
+    "id": "233",
+    "district_id": "50",
+    "name_uz": "Mazragan"
+  },
+  {
+    "id": "234",
+    "district_id": "50",
+    "name_uz": "Namatgaron"
+  },
+  {
+    "id": "236",
+    "district_id": "50",
+    "name_uz": "Pozagari"
+  },
+  {
+    "id": "237",
+    "district_id": "50",
+    "name_uz": "Sarvari"
+  },
+  {
+    "id": "238",
+    "district_id": "50",
+    "name_uz": "Sarmijon"
+  },
+  {
+    "id": "239",
+    "district_id": "50",
+    "name_uz": "Soktari"
+  },
+  {
+    "id": "240",
+    "district_id": "50",
+    "name_uz": "O'zanon"
+  },
+  {
+    "id": "241",
+    "district_id": "50",
+    "name_uz": "Ulfatbibi"
+  },
+  {
+    "id": "242",
+    "district_id": "50",
+    "name_uz": "Firishkent"
+  },
+  {
+    "id": "243",
+    "district_id": "50",
+    "name_uz": "Xatcha"
+  },
+  {
+    "id": "244",
+    "district_id": "50",
+    "name_uz": "Chag'dari"
+  },
+  {
+    "id": "245",
+    "district_id": "50",
+    "name_uz": "Yuqori Qumoq"
+  },
+  {
+    "id": "246",
+    "district_id": "50",
+    "name_uz": "Yuqori Rostgo'y"
+  },
+  {
+    "id": "247",
+    "district_id": "51",
+    "name_uz": "Aleli"
+  },
+  {
+    "id": "248",
+    "district_id": "51",
+    "name_uz": "Dalmun"
+  },
+  {
+    "id": "250",
+    "district_id": "51",
+    "name_uz": "Jondor"
+  },
+  {
+    "id": "251",
+    "district_id": "51",
+    "name_uz": "Zarafshon"
+  },
+  {
+    "id": "252",
+    "district_id": "51",
+    "name_uz": "Ko'liyon"
+  },
+  {
+    "id": "253",
+    "district_id": "51",
+    "name_uz": "Qaroli"
+  },
+  {
+    "id": "254",
+    "district_id": "51",
+    "name_uz": "Lolo"
+  },
+  {
+    "id": "255",
+    "district_id": "51",
+    "name_uz": "Mirzayon"
+  },
+  {
+    "id": "256",
+    "district_id": "51",
+    "name_uz": "Mustaqillik"
+  },
+  {
+    "id": "257",
+    "district_id": "51",
+    "name_uz": "Oxshix"
+  },
+  {
+    "id": "258",
+    "district_id": "51",
+    "name_uz": "Paxlavon"
+  },
+  {
+    "id": "259",
+    "district_id": "51",
+    "name_uz": "Po'loti"
+  },
+  {
+    "id": "260",
+    "district_id": "51",
+    "name_uz": "Romish"
+  },
+  {
+    "id": "261",
+    "district_id": "51",
+    "name_uz": "Samonchuq"
+  },
+  {
+    "id": "263",
+    "district_id": "51",
+    "name_uz": "Tobagar"
+  },
+  {
+    "id": "264",
+    "district_id": "51",
+    "name_uz": "Ushot"
+  },
+  {
+    "id": "265",
+    "district_id": "51",
+    "name_uz": "Xazorman"
+  },
+  {
+    "id": "266",
+    "district_id": "51",
+    "name_uz": "Xumdonak"
+  },
+  {
+    "id": "268",
+    "district_id": "52",
+    "name_uz": "Chorzona"
+  },
+  {
+    "id": "269",
+    "district_id": "52",
+    "name_uz": "B.Naqshband"
+  },
+  {
+    "id": "270",
+    "district_id": "52",
+    "name_uz": "Beklar"
+  },
+  {
+    "id": "272",
+    "district_id": "52",
+    "name_uz": "Kogon"
+  },
+  {
+    "id": "273",
+    "district_id": "52",
+    "name_uz": "Niyozhoji"
+  },
+  {
+    "id": "274",
+    "district_id": "52",
+    "name_uz": "Nurafshon"
+  },
+  {
+    "id": "275",
+    "district_id": "52",
+    "name_uz": "Sarayon"
+  },
+  {
+    "id": "276",
+    "district_id": "52",
+    "name_uz": "Sarayonobod"
+  },
+  {
+    "id": "277",
+    "district_id": "52",
+    "name_uz": "Tutikunda"
+  },
+  {
+    "id": "278",
+    "district_id": "52",
+    "name_uz": "Xo'ja Yakshaba"
+  },
+  {
+    "id": "279",
+    "district_id": "52",
+    "name_uz": "Yangi xayot"
+  },
+  {
+    "id": "280",
+    "district_id": "54",
+    "name_uz": "Bandboshi"
+  },
+  {
+    "id": "282",
+    "district_id": "54",
+    "name_uz": "Darg'abog'i"
+  },
+  {
+    "id": "283",
+    "district_id": "54",
+    "name_uz": "Darg'ali"
+  },
+  {
+    "id": "284",
+    "district_id": "54",
+    "name_uz": "Jig'achi"
+  },
+  {
+    "id": "286",
+    "district_id": "54",
+    "name_uz": "Ziyorat"
+  },
+  {
+    "id": "287",
+    "district_id": "54",
+    "name_uz": "Kulonchi"
+  },
+  {
+    "id": "288",
+    "district_id": "54",
+    "name_uz": "Qozon"
+  },
+  {
+    "id": "289",
+    "district_id": "54",
+    "name_uz": "Qorako'l"
+  },
+  {
+    "id": "291",
+    "district_id": "54",
+    "name_uz": "Qoraun"
+  },
+  {
+    "id": "292",
+    "district_id": "54",
+    "name_uz": "Qorahoji"
+  },
+  {
+    "id": "294",
+    "district_id": "54",
+    "name_uz": "Quvvacha"
+  },
+  {
+    "id": "296",
+    "district_id": "54",
+    "name_uz": "Quyi Yangibozor"
+  },
+  {
+    "id": "297",
+    "district_id": "54",
+    "name_uz": "Mallaishayx"
+  },
+  {
+    "id": "298",
+    "district_id": "54",
+    "name_uz": "Mirzaqal?a"
+  },
+  {
+    "id": "299",
+    "district_id": "54",
+    "name_uz": "Sayyod"
+  },
+  {
+    "id": "300",
+    "district_id": "54",
+    "name_uz": "Sayyot"
+  },
+  {
+    "id": "301",
+    "district_id": "54",
+    "name_uz": "Solur"
+  },
+  {
+    "id": "302",
+    "district_id": "54",
+    "name_uz": "Chandir"
+  },
+  {
+    "id": "303",
+    "district_id": "54",
+    "name_uz": "Chandirobod"
+  },
+  {
+    "id": "304",
+    "district_id": "54",
+    "name_uz": "Chovli"
+  },
+  {
+    "id": "305",
+    "district_id": "54",
+    "name_uz": "Sho'rabot"
+  },
+  {
+    "id": "306",
+    "district_id": "54",
+    "name_uz": "Sho'rrabot"
+  },
+  {
+    "id": "307",
+    "district_id": "54",
+    "name_uz": "Yakka A?lam"
+  },
+  {
+    "id": "308",
+    "district_id": "54",
+    "name_uz": "Yangiqal?a"
+  },
+  {
+    "id": "309",
+    "district_id": "55",
+    "name_uz": "Buzachi"
+  },
+  {
+    "id": "311",
+    "district_id": "55",
+    "name_uz": "Jarqoq"
+  },
+  {
+    "id": "312",
+    "district_id": "55",
+    "name_uz": "Qorovulbozor"
+  },
+  {
+    "id": "314",
+    "district_id": "56",
+    "name_uz": "Bahoriston"
+  },
+  {
+    "id": "315",
+    "district_id": "56",
+    "name_uz": "Bo'ribek Chandir"
+  },
+  {
+    "id": "316",
+    "district_id": "56",
+    "name_uz": "Ganchi Chandir"
+  },
+  {
+    "id": "318",
+    "district_id": "56",
+    "name_uz": "Denov"
+  },
+  {
+    "id": "319",
+    "district_id": "56",
+    "name_uz": "Jayxunobod"
+  },
+  {
+    "id": "320",
+    "district_id": "56",
+    "name_uz": "Jumabozor"
+  },
+  {
+    "id": "321",
+    "district_id": "56",
+    "name_uz": "Kesakli"
+  },
+  {
+    "id": "322",
+    "district_id": "56",
+    "name_uz": "Qirlishon"
+  },
+  {
+    "id": "323",
+    "district_id": "56",
+    "name_uz": "Qirtay"
+  },
+  {
+    "id": "324",
+    "district_id": "56",
+    "name_uz": "Olot"
+  },
+  {
+    "id": "326",
+    "district_id": "56",
+    "name_uz": "Soyin-qorovul"
+  },
+  {
+    "id": "327",
+    "district_id": "56",
+    "name_uz": "Sola qorovul"
+  },
+  {
+    "id": "328",
+    "district_id": "56",
+    "name_uz": "Talqon-sayyot"
+  },
+  {
+    "id": "331",
+    "district_id": "56",
+    "name_uz": "Chovdur"
+  },
+  {
+    "id": "332",
+    "district_id": "56",
+    "name_uz": "Chorbog'"
+  },
+  {
+    "id": "333",
+    "district_id": "57",
+    "name_uz": "Bog'imuso"
+  },
+  {
+    "id": "334",
+    "district_id": "57",
+    "name_uz": "Varaxsho"
+  },
+  {
+    "id": "335",
+    "district_id": "57",
+    "name_uz": "Jonkeldi"
+  },
+  {
+    "id": "336",
+    "district_id": "57",
+    "name_uz": "Zandani"
+  },
+  {
+    "id": "337",
+    "district_id": "57",
+    "name_uz": "Ibn Sino nomli"
+  },
+  {
+    "id": "338",
+    "district_id": "57",
+    "name_uz": "Qal?ai Mirishkor"
+  },
+  {
+    "id": "340",
+    "district_id": "57",
+    "name_uz": "Mahallai-Mirishkor"
+  },
+  {
+    "id": "341",
+    "district_id": "57",
+    "name_uz": "Peshku"
+  },
+  {
+    "id": "343",
+    "district_id": "57",
+    "name_uz": "Chibog'oni"
+  },
+  {
+    "id": "344",
+    "district_id": "57",
+    "name_uz": "Shavgon"
+  },
+  {
+    "id": "345",
+    "district_id": "57",
+    "name_uz": "Yangibozor"
+  },
+  {
+    "id": "347",
+    "district_id": "58",
+    "name_uz": "Bog'iturkon"
+  },
+  {
+    "id": "348",
+    "district_id": "58",
+    "name_uz": "Gazli"
+  },
+  {
+    "id": "349",
+    "district_id": "58",
+    "name_uz": "Qizil Ravot"
+  },
+  {
+    "id": "350",
+    "district_id": "58",
+    "name_uz": "Qoqishtuvon"
+  },
+  {
+    "id": "351",
+    "district_id": "58",
+    "name_uz": "Qo'rg'on"
+  },
+  {
+    "id": "352",
+    "district_id": "58",
+    "name_uz": "Romitan"
+  },
+  {
+    "id": "354",
+    "district_id": "58",
+    "name_uz": "Xosa"
+  },
+  {
+    "id": "355",
+    "district_id": "58",
+    "name_uz": "Chelong'u"
+  },
+  {
+    "id": "356",
+    "district_id": "58",
+    "name_uz": "Sho'rcha"
+  },
+  {
+    "id": "357",
+    "district_id": "58",
+    "name_uz": "Yuqori G'azberon"
+  },
+  {
+    "id": "358",
+    "district_id": "59",
+    "name_uz": "Bog'iafzal"
+  },
+  {
+    "id": "359",
+    "district_id": "59",
+    "name_uz": "Vargonze"
+  },
+  {
+    "id": "360",
+    "district_id": "59",
+    "name_uz": "G'ulomte"
+  },
+  {
+    "id": "362",
+    "district_id": "59",
+    "name_uz": "Do'rmon"
+  },
+  {
+    "id": "363",
+    "district_id": "59",
+    "name_uz": "Jo'ynav"
+  },
+  {
+    "id": "364",
+    "district_id": "59",
+    "name_uz": "Jo'yrabot"
+  },
+  {
+    "id": "366",
+    "district_id": "59",
+    "name_uz": "Iskogare"
+  },
+  {
+    "id": "368",
+    "district_id": "59",
+    "name_uz": "Quyi Chuqurak"
+  },
+  {
+    "id": "369",
+    "district_id": "59",
+    "name_uz": "Mazlaxon chandir"
+  },
+  {
+    "id": "370",
+    "district_id": "59",
+    "name_uz": "Mirzoqul"
+  },
+  {
+    "id": "371",
+    "district_id": "59",
+    "name_uz": "Savrak"
+  },
+  {
+    "id": "372",
+    "district_id": "59",
+    "name_uz": "Sulton Jo'ra"
+  },
+  {
+    "id": "373",
+    "district_id": "59",
+    "name_uz": "Talisafed"
+  },
+  {
+    "id": "374",
+    "district_id": "59",
+    "name_uz": "Tezguzar"
+  },
+  {
+    "id": "375",
+    "district_id": "59",
+    "name_uz": "Undare"
+  },
+  {
+    "id": "377",
+    "district_id": "59",
+    "name_uz": "Sh.Hamroyev nomli"
+  },
+  {
+    "id": "378",
+    "district_id": "59",
+    "name_uz": "Shofirkon"
+  },
+  {
+    "id": "380",
+    "district_id": "60",
+    "name_uz": "Gulbahor"
+  },
+  {
+    "id": "381",
+    "district_id": "60",
+    "name_uz": "G'oliblar"
+  },
+  {
+    "id": "385",
+    "district_id": "60",
+    "name_uz": "Cho'lquvar"
+  },
+  {
+    "id": "386",
+    "district_id": "60",
+    "name_uz": "Yangibo'ston"
+  },
+  {
+    "id": "387",
+    "district_id": "61",
+    "name_uz": "Alamli"
+  },
+  {
+    "id": "388",
+    "district_id": "61",
+    "name_uz": "Barlos"
+  },
+  {
+    "id": "389",
+    "district_id": "61",
+    "name_uz": "Baxmal"
+  },
+  {
+    "id": "391",
+    "district_id": "61",
+    "name_uz": "Bog'ishamol"
+  },
+  {
+    "id": "392",
+    "district_id": "61",
+    "name_uz": "Gulbuloq"
+  },
+  {
+    "id": "393",
+    "district_id": "61",
+    "name_uz": "Mo'g'ol"
+  },
+  {
+    "id": "395",
+    "district_id": "61",
+    "name_uz": "Novqa"
+  },
+  {
+    "id": "396",
+    "district_id": "61",
+    "name_uz": "Oyqor"
+  },
+  {
+    "id": "397",
+    "district_id": "61",
+    "name_uz": "Oqtosh"
+  },
+  {
+    "id": "399",
+    "district_id": "61",
+    "name_uz": "Sangzor"
+  },
+  {
+    "id": "400",
+    "district_id": "61",
+    "name_uz": "Tongotar"
+  },
+  {
+    "id": "402",
+    "district_id": "61",
+    "name_uz": "Uzunbuloq"
+  },
+  {
+    "id": "403",
+    "district_id": "61",
+    "name_uz": "O'smat"
+  },
+  {
+    "id": "404",
+    "district_id": "62",
+    "name_uz": "Abdukarim"
+  },
+  {
+    "id": "407",
+    "district_id": "62",
+    "name_uz": "Gulchambar"
+  },
+  {
+    "id": "408",
+    "district_id": "62",
+    "name_uz": "G'allaorol"
+  },
+  {
+    "id": "409",
+    "district_id": "62",
+    "name_uz": "G'ubdin"
+  },
+  {
+    "id": "411",
+    "district_id": "62",
+    "name_uz": "Korizquduq"
+  },
+  {
+    "id": "412",
+    "district_id": "62",
+    "name_uz": "Ko'kbuloq"
+  },
+  {
+    "id": "413",
+    "district_id": "62",
+    "name_uz": "Qangliobod"
+  },
+  {
+    "id": "414",
+    "district_id": "62",
+    "name_uz": "Qipchoqsuv"
+  },
+  {
+    "id": "415",
+    "district_id": "62",
+    "name_uz": "Qo'ytosh"
+  },
+  {
+    "id": "416",
+    "district_id": "62",
+    "name_uz": "Lalmikor"
+  },
+  {
+    "id": "418",
+    "district_id": "62",
+    "name_uz": "Marjonbuloq"
+  },
+  {
+    "id": "419",
+    "district_id": "62",
+    "name_uz": "Mirzabuloq"
+  },
+  {
+    "id": "420",
+    "district_id": "62",
+    "name_uz": "Moltob"
+  },
+  {
+    "id": "421",
+    "district_id": "62",
+    "name_uz": "Mulkush"
+  },
+  {
+    "id": "422",
+    "district_id": "62",
+    "name_uz": "Tozaurug'"
+  },
+  {
+    "id": "423",
+    "district_id": "62",
+    "name_uz": "Xonimqo'rg'on"
+  },
+  {
+    "id": "424",
+    "district_id": "62",
+    "name_uz": "Chuvilloq"
+  },
+  {
+    "id": "425",
+    "district_id": "63",
+    "name_uz": "Bog'zor"
+  },
+  {
+    "id": "426",
+    "district_id": "63",
+    "name_uz": "Bunyodkor"
+  },
+  {
+    "id": "428",
+    "district_id": "63",
+    "name_uz": "Qahramon"
+  },
+  {
+    "id": "429",
+    "district_id": "63",
+    "name_uz": "Manas"
+  },
+  {
+    "id": "430",
+    "district_id": "63",
+    "name_uz": "Mevazor"
+  },
+  {
+    "id": "431",
+    "district_id": "63",
+    "name_uz": "Navro'z"
+  },
+  {
+    "id": "433",
+    "district_id": "63",
+    "name_uz": "Saritepa"
+  },
+  {
+    "id": "434",
+    "district_id": "66",
+    "name_uz": "Adirobod"
+  },
+  {
+    "id": "439",
+    "district_id": "66",
+    "name_uz": "Oqar"
+  },
+  {
+    "id": "440",
+    "district_id": "66",
+    "name_uz": "Tinchlik"
+  },
+  {
+    "id": "441",
+    "district_id": "66",
+    "name_uz": "Toshkesgan"
+  },
+  {
+    "id": "442",
+    "district_id": "66",
+    "name_uz": "Fayzobod"
+  },
+  {
+    "id": "443",
+    "district_id": "66",
+    "name_uz": "Sharq yulduzi"
+  },
+  {
+    "id": "446",
+    "district_id": "67",
+    "name_uz": "Birlik"
+  },
+  {
+    "id": "447",
+    "district_id": "67",
+    "name_uz": "Yorqin"
+  },
+  {
+    "id": "449",
+    "district_id": "67",
+    "name_uz": "Zafarobod"
+  },
+  {
+    "id": "450",
+    "district_id": "67",
+    "name_uz": "Lolazor"
+  },
+  {
+    "id": "452",
+    "district_id": "67",
+    "name_uz": "Pistalikent"
+  },
+  {
+    "id": "453",
+    "district_id": "67",
+    "name_uz": "Uzun"
+  },
+  {
+    "id": "454",
+    "district_id": "67",
+    "name_uz": "Xulkar"
+  },
+  {
+    "id": "455",
+    "district_id": "67",
+    "name_uz": "Chimqo'rg'on"
+  },
+  {
+    "id": "456",
+    "district_id": "68",
+    "name_uz": "A.Navoiy"
+  },
+  {
+    "id": "457",
+    "district_id": "68",
+    "name_uz": "Beshkubi"
+  },
+  {
+    "id": "458",
+    "district_id": "68",
+    "name_uz": "Gulshan"
+  },
+  {
+    "id": "459",
+    "district_id": "68",
+    "name_uz": "G'allakor"
+  },
+  {
+    "id": "460",
+    "district_id": "68",
+    "name_uz": "Dashtobod"
+  },
+  {
+    "id": "461",
+    "district_id": "68",
+    "name_uz": "Duoba"
+  },
+  {
+    "id": "462",
+    "district_id": "68",
+    "name_uz": "Yom"
+  },
+  {
+    "id": "463",
+    "district_id": "68",
+    "name_uz": "Zomin"
+  },
+  {
+    "id": "464",
+    "district_id": "68",
+    "name_uz": "Istiqlol"
+  },
+  {
+    "id": "465",
+    "district_id": "68",
+    "name_uz": "Obi hayot"
+  },
+  {
+    "id": "466",
+    "district_id": "68",
+    "name_uz": "Pshag'or"
+  },
+  {
+    "id": "467",
+    "district_id": "68",
+    "name_uz": "Sirg'ali"
+  },
+  {
+    "id": "468",
+    "district_id": "68",
+    "name_uz": "Chorvador"
+  },
+  {
+    "id": "470",
+    "district_id": "69",
+    "name_uz": "Bog'bon"
+  },
+  {
+    "id": "471",
+    "district_id": "69",
+    "name_uz": "Gagarin"
+  },
+  {
+    "id": "472",
+    "district_id": "69",
+    "name_uz": "Gulzor"
+  },
+  {
+    "id": "473",
+    "district_id": "69",
+    "name_uz": "Jibek-jo'li"
+  },
+  {
+    "id": "474",
+    "district_id": "69",
+    "name_uz": "Mirzadala"
+  },
+  {
+    "id": "475",
+    "district_id": "69",
+    "name_uz": "Paxtazor"
+  },
+  {
+    "id": "476",
+    "district_id": "69",
+    "name_uz": "Toshkent"
+  },
+  {
+    "id": "478",
+    "district_id": "69",
+    "name_uz": "Yangidala"
+  },
+  {
+    "id": "480",
+    "district_id": "70",
+    "name_uz": "Buyuk Ipak yo'li"
+  },
+  {
+    "id": "483",
+    "district_id": "70",
+    "name_uz": "Oq buloq"
+  },
+  {
+    "id": "484",
+    "district_id": "70",
+    "name_uz": "Olmazor"
+  },
+  {
+    "id": "487",
+    "district_id": "70",
+    "name_uz": "Chamanzor"
+  },
+  {
+    "id": "488",
+    "district_id": "71",
+    "name_uz": "Arnasoy"
+  },
+  {
+    "id": "489",
+    "district_id": "71",
+    "name_uz": "Bog'don"
+  },
+  {
+    "id": "490",
+    "district_id": "71",
+    "name_uz": "Garasha"
+  },
+  {
+    "id": "491",
+    "district_id": "71",
+    "name_uz": "Darvoza"
+  },
+  {
+    "id": "492",
+    "district_id": "71",
+    "name_uz": "Qizilqum"
+  },
+  {
+    "id": "493",
+    "district_id": "71",
+    "name_uz": "Qoraabdol"
+  },
+  {
+    "id": "494",
+    "district_id": "71",
+    "name_uz": "Omonkeldi"
+  },
+  {
+    "id": "495",
+    "district_id": "71",
+    "name_uz": "Osmonsoy"
+  },
+  {
+    "id": "496",
+    "district_id": "71",
+    "name_uz": "Uxum"
+  },
+  {
+    "id": "497",
+    "district_id": "71",
+    "name_uz": "Uchquloch"
+  },
+  {
+    "id": "498",
+    "district_id": "71",
+    "name_uz": "Forish"
+  },
+  {
+    "id": "499",
+    "district_id": "71",
+    "name_uz": "Egizbuloq"
+  },
+  {
+    "id": "500",
+    "district_id": "64",
+    "name_uz": "Gandumtosh"
+  },
+  {
+    "id": "501",
+    "district_id": "64",
+    "name_uz": "Jizzaxlik"
+  },
+  {
+    "id": "502",
+    "district_id": "64",
+    "name_uz": "Ziyokor"
+  },
+  {
+    "id": "503",
+    "district_id": "64",
+    "name_uz": "Kuyovboshi"
+  },
+  {
+    "id": "504",
+    "district_id": "64",
+    "name_uz": "Qang'li"
+  },
+  {
+    "id": "506",
+    "district_id": "64",
+    "name_uz": "Qorayantoq"
+  },
+  {
+    "id": "507",
+    "district_id": "64",
+    "name_uz": "Qulama"
+  },
+  {
+    "id": "508",
+    "district_id": "64",
+    "name_uz": "Qo'shbarmoq"
+  },
+  {
+    "id": "509",
+    "district_id": "64",
+    "name_uz": "Mulkanlik"
+  },
+  {
+    "id": "512",
+    "district_id": "64",
+    "name_uz": "Rovat"
+  },
+  {
+    "id": "513",
+    "district_id": "64",
+    "name_uz": "Samarqand quduq"
+  },
+  {
+    "id": "514",
+    "district_id": "64",
+    "name_uz": "Toqchiliq"
+  },
+  {
+    "id": "515",
+    "district_id": "64",
+    "name_uz": "Uch-tepa"
+  },
+  {
+    "id": "518",
+    "district_id": "64",
+    "name_uz": "Xayrobod"
+  },
+  {
+    "id": "519",
+    "district_id": "72",
+    "name_uz": "Savot"
+  },
+  {
+    "id": "521",
+    "district_id": "72",
+    "name_uz": "Sarmich"
+  },
+  {
+    "id": "523",
+    "district_id": "72",
+    "name_uz": "Xo'jamushkent"
+  },
+  {
+    "id": "524",
+    "district_id": "72",
+    "name_uz": "Havotog'"
+  },
+  {
+    "id": "526",
+    "district_id": "73",
+    "name_uz": "Batosh"
+  },
+  {
+    "id": "530",
+    "district_id": "73",
+    "name_uz": "G'uzor"
+  },
+  {
+    "id": "531",
+    "district_id": "73",
+    "name_uz": "Jarariq"
+  },
+  {
+    "id": "535",
+    "district_id": "73",
+    "name_uz": "Mash?al"
+  },
+  {
+    "id": "536",
+    "district_id": "73",
+    "name_uz": "Mehnatobod"
+  },
+  {
+    "id": "537",
+    "district_id": "73",
+    "name_uz": "Obihayot"
+  },
+  {
+    "id": "538",
+    "district_id": "73",
+    "name_uz": "Pachkamar"
+  },
+  {
+    "id": "539",
+    "district_id": "73",
+    "name_uz": "Xalqabod"
+  },
+  {
+    "id": "540",
+    "district_id": "73",
+    "name_uz": "Shakarbuloq"
+  },
+  {
+    "id": "541",
+    "district_id": "73",
+    "name_uz": "Sherali"
+  },
+  {
+    "id": "544",
+    "district_id": "74",
+    "name_uz": "Beshbuloq"
+  },
+  {
+    "id": "545",
+    "district_id": "74",
+    "name_uz": "Beshqo'ton"
+  },
+  {
+    "id": "546",
+    "district_id": "74",
+    "name_uz": "Bibiqorasoch"
+  },
+  {
+    "id": "547",
+    "district_id": "74",
+    "name_uz": "Bozortepa"
+  },
+  {
+    "id": "548",
+    "district_id": "74",
+    "name_uz": "Boshchorbog'"
+  },
+  {
+    "id": "549",
+    "district_id": "74",
+    "name_uz": "Dehqonobod"
+  },
+  {
+    "id": "550",
+    "district_id": "74",
+    "name_uz": "Duob"
+  },
+  {
+    "id": "551",
+    "district_id": "74",
+    "name_uz": "Karashina"
+  },
+  {
+    "id": "552",
+    "district_id": "74",
+    "name_uz": "Qizilcha"
+  },
+  {
+    "id": "553",
+    "district_id": "74",
+    "name_uz": "Qirqquloch"
+  },
+  {
+    "id": "554",
+    "district_id": "74",
+    "name_uz": "Qo'rg'ontosh"
+  },
+  {
+    "id": "555",
+    "district_id": "74",
+    "name_uz": "Obiravon"
+  },
+  {
+    "id": "556",
+    "district_id": "74",
+    "name_uz": "Oqirtma"
+  },
+  {
+    "id": "557",
+    "district_id": "74",
+    "name_uz": "Oqqishloq"
+  },
+  {
+    "id": "558",
+    "district_id": "74",
+    "name_uz": "Oqrabod"
+  },
+  {
+    "id": "561",
+    "district_id": "78",
+    "name_uz": "G'alaba"
+  },
+  {
+    "id": "565",
+    "district_id": "78",
+    "name_uz": "Kasbi"
+  },
+  {
+    "id": "566",
+    "district_id": "78",
+    "name_uz": "Komilon"
+  },
+  {
+    "id": "567",
+    "district_id": "78",
+    "name_uz": "Qamashi"
+  },
+  {
+    "id": "568",
+    "district_id": "78",
+    "name_uz": "Qatag'an"
+  },
+  {
+    "id": "569",
+    "district_id": "78",
+    "name_uz": "Qatag'on"
+  },
+  {
+    "id": "570",
+    "district_id": "78",
+    "name_uz": "Qoraqo'ng'irot"
+  },
+  {
+    "id": "571",
+    "district_id": "78",
+    "name_uz": "Maymanoq"
+  },
+  {
+    "id": "572",
+    "district_id": "78",
+    "name_uz": "Mug'lon"
+  },
+  {
+    "id": "575",
+    "district_id": "78",
+    "name_uz": "Fazli"
+  },
+  {
+    "id": "576",
+    "district_id": "78",
+    "name_uz": "Xo'jakasbi"
+  },
+  {
+    "id": "578",
+    "district_id": "78",
+    "name_uz": "Yuksalish"
+  },
+  {
+    "id": "580",
+    "district_id": "79",
+    "name_uz": "Alaqo'yliq"
+  },
+  {
+    "id": "581",
+    "district_id": "79",
+    "name_uz": "Baxtdarvozasi"
+  },
+  {
+    "id": "582",
+    "district_id": "79",
+    "name_uz": "Bektemir"
+  },
+  {
+    "id": "584",
+    "district_id": "79",
+    "name_uz": "Beshterak"
+  },
+  {
+    "id": "587",
+    "district_id": "79",
+    "name_uz": "Varganza"
+  },
+  {
+    "id": "588",
+    "district_id": "79",
+    "name_uz": "Jilisuv"
+  },
+  {
+    "id": "589",
+    "district_id": "79",
+    "name_uz": "Kitob"
+  },
+  {
+    "id": "590",
+    "district_id": "79",
+    "name_uz": "Qaynarbuloq"
+  },
+  {
+    "id": "591",
+    "district_id": "79",
+    "name_uz": "Qatorbog'"
+  },
+  {
+    "id": "592",
+    "district_id": "79",
+    "name_uz": "Qo'yioqboy"
+  },
+  {
+    "id": "593",
+    "district_id": "79",
+    "name_uz": "Makrid"
+  },
+  {
+    "id": "594",
+    "district_id": "79",
+    "name_uz": "Obikanda"
+  },
+  {
+    "id": "595",
+    "district_id": "79",
+    "name_uz": "Panji"
+  },
+  {
+    "id": "597",
+    "district_id": "79",
+    "name_uz": "Rus qishloq"
+  },
+  {
+    "id": "598",
+    "district_id": "79",
+    "name_uz": "Sariosiyo"
+  },
+  {
+    "id": "599",
+    "district_id": "79",
+    "name_uz": "Sevaz"
+  },
+  {
+    "id": "601",
+    "district_id": "79",
+    "name_uz": "Tagob"
+  },
+  {
+    "id": "602",
+    "district_id": "79",
+    "name_uz": "Tupchoq"
+  },
+  {
+    "id": "603",
+    "district_id": "79",
+    "name_uz": "Xoji"
+  },
+  {
+    "id": "606",
+    "district_id": "80",
+    "name_uz": "Alachabob"
+  },
+  {
+    "id": "607",
+    "district_id": "80",
+    "name_uz": "Boyg'undi"
+  },
+  {
+    "id": "608",
+    "district_id": "80",
+    "name_uz": "Boyterak"
+  },
+  {
+    "id": "609",
+    "district_id": "80",
+    "name_uz": "Guvalak"
+  },
+  {
+    "id": "610",
+    "district_id": "80",
+    "name_uz": "Gulbog'"
+  },
+  {
+    "id": "615",
+    "district_id": "80",
+    "name_uz": "Koson"
+  },
+  {
+    "id": "617",
+    "district_id": "80",
+    "name_uz": "Qo'yi Obron"
+  },
+  {
+    "id": "618",
+    "district_id": "80",
+    "name_uz": "Qo'ng'irtog'"
+  },
+  {
+    "id": "619",
+    "district_id": "80",
+    "name_uz": "Mudin"
+  },
+  {
+    "id": "620",
+    "district_id": "80",
+    "name_uz": "Obod"
+  },
+  {
+    "id": "621",
+    "district_id": "80",
+    "name_uz": "Oqtepa"
+  },
+  {
+    "id": "622",
+    "district_id": "80",
+    "name_uz": "Pudina"
+  },
+  {
+    "id": "623",
+    "district_id": "80",
+    "name_uz": "Po'lati"
+  },
+  {
+    "id": "624",
+    "district_id": "80",
+    "name_uz": "Rahimso'fi"
+  },
+  {
+    "id": "625",
+    "district_id": "80",
+    "name_uz": "Rudaksoy"
+  },
+  {
+    "id": "626",
+    "district_id": "80",
+    "name_uz": "Surhon"
+  },
+  {
+    "id": "628",
+    "district_id": "80",
+    "name_uz": "To'lg'a"
+  },
+  {
+    "id": "629",
+    "district_id": "80",
+    "name_uz": "Esaboy"
+  },
+  {
+    "id": "630",
+    "district_id": "75",
+    "name_uz": "Badahshon"
+  },
+  {
+    "id": "631",
+    "district_id": "75",
+    "name_uz": "Balandchayla"
+  },
+  {
+    "id": "632",
+    "district_id": "75",
+    "name_uz": "Yortepa"
+  },
+  {
+    "id": "633",
+    "district_id": "75",
+    "name_uz": "Jonbo'zsoy"
+  },
+  {
+    "id": "635",
+    "district_id": "75",
+    "name_uz": "Qamay"
+  },
+  {
+    "id": "637",
+    "district_id": "75",
+    "name_uz": "Qiziltepa"
+  },
+  {
+    "id": "639",
+    "district_id": "75",
+    "name_uz": "Qorabog'"
+  },
+  {
+    "id": "642",
+    "district_id": "75",
+    "name_uz": "Loyqasoy"
+  },
+  {
+    "id": "643",
+    "district_id": "75",
+    "name_uz": "Rabod"
+  },
+  {
+    "id": "644",
+    "district_id": "75",
+    "name_uz": "Sarbozor"
+  },
+  {
+    "id": "645",
+    "district_id": "75",
+    "name_uz": "To'qboy"
+  },
+  {
+    "id": "646",
+    "district_id": "75",
+    "name_uz": "Chim"
+  },
+  {
+    "id": "647",
+    "district_id": "76",
+    "name_uz": "Beshkent"
+  },
+  {
+    "id": "648",
+    "district_id": "76",
+    "name_uz": "Bog'obod"
+  },
+  {
+    "id": "650",
+    "district_id": "76",
+    "name_uz": "Dasht"
+  },
+  {
+    "id": "651",
+    "district_id": "76",
+    "name_uz": "Yertepa"
+  },
+  {
+    "id": "654",
+    "district_id": "76",
+    "name_uz": "Kat"
+  },
+  {
+    "id": "655",
+    "district_id": "76",
+    "name_uz": "Kuchkak"
+  },
+  {
+    "id": "656",
+    "district_id": "76",
+    "name_uz": "Qovchin"
+  },
+  {
+    "id": "659",
+    "district_id": "76",
+    "name_uz": "Lag'mon"
+  },
+  {
+    "id": "660",
+    "district_id": "76",
+    "name_uz": "Mirmiron"
+  },
+  {
+    "id": "664",
+    "district_id": "76",
+    "name_uz": "Nuqrabod"
+  },
+  {
+    "id": "666",
+    "district_id": "76",
+    "name_uz": "Poshton"
+  },
+  {
+    "id": "667",
+    "district_id": "76",
+    "name_uz": "Saroy"
+  },
+  {
+    "id": "668",
+    "district_id": "76",
+    "name_uz": "Tallikuron"
+  },
+  {
+    "id": "669",
+    "district_id": "76",
+    "name_uz": "O'zbekiston mustaqilligi"
+  },
+  {
+    "id": "672",
+    "district_id": "76",
+    "name_uz": "Hilol"
+  },
+  {
+    "id": "673",
+    "district_id": "76",
+    "name_uz": "Chaman"
+  },
+  {
+    "id": "674",
+    "district_id": "76",
+    "name_uz": "Charag'il"
+  },
+  {
+    "id": "675",
+    "district_id": "76",
+    "name_uz": "Cho'libo'ston"
+  },
+  {
+    "id": "676",
+    "district_id": "76",
+    "name_uz": "Shilvi"
+  },
+  {
+    "id": "679",
+    "district_id": "81",
+    "name_uz": "Vori"
+  },
+  {
+    "id": "681",
+    "district_id": "81",
+    "name_uz": "Gulshanbog'"
+  },
+  {
+    "id": "682",
+    "district_id": "81",
+    "name_uz": "Jeynov"
+  },
+  {
+    "id": "684",
+    "district_id": "81",
+    "name_uz": "Mirishkor"
+  },
+  {
+    "id": "687",
+    "district_id": "81",
+    "name_uz": "Pomuq"
+  },
+  {
+    "id": "691",
+    "district_id": "81",
+    "name_uz": "Yangi Mirishkor"
+  },
+  {
+    "id": "693",
+    "district_id": "82",
+    "name_uz": "Baxt"
+  },
+  {
+    "id": "694",
+    "district_id": "82",
+    "name_uz": "Diyonat"
+  },
+  {
+    "id": "695",
+    "district_id": "82",
+    "name_uz": "Qarliq"
+  },
+  {
+    "id": "697",
+    "district_id": "82",
+    "name_uz": "Qoraqum"
+  },
+  {
+    "id": "699",
+    "district_id": "82",
+    "name_uz": "Muborak"
+  },
+  {
+    "id": "701",
+    "district_id": "82",
+    "name_uz": "Sariq"
+  },
+  {
+    "id": "702",
+    "district_id": "82",
+    "name_uz": "Shayx"
+  },
+  {
+    "id": "703",
+    "district_id": "83",
+    "name_uz": "Balxiyak"
+  },
+  {
+    "id": "707",
+    "district_id": "83",
+    "name_uz": "Nishon"
+  },
+  {
+    "id": "709",
+    "district_id": "83",
+    "name_uz": "Nuriston"
+  },
+  {
+    "id": "710",
+    "district_id": "83",
+    "name_uz": "Oydin"
+  },
+  {
+    "id": "711",
+    "district_id": "83",
+    "name_uz": "Oydinlik"
+  },
+  {
+    "id": "716",
+    "district_id": "83",
+    "name_uz": "Paxtachi"
+  },
+  {
+    "id": "717",
+    "district_id": "83",
+    "name_uz": "Samarqand"
+  },
+  {
+    "id": "718",
+    "district_id": "83",
+    "name_uz": "Sardoba"
+  },
+  {
+    "id": "719",
+    "district_id": "83",
+    "name_uz": "Talimarjon"
+  },
+  {
+    "id": "720",
+    "district_id": "83",
+    "name_uz": "Shirinobod"
+  },
+  {
+    "id": "721",
+    "district_id": "83",
+    "name_uz": "Yangi Nishon"
+  },
+  {
+    "id": "722",
+    "district_id": "84",
+    "name_uz": "Ayritom"
+  },
+  {
+    "id": "723",
+    "district_id": "84",
+    "name_uz": "Dam"
+  },
+  {
+    "id": "724",
+    "district_id": "84",
+    "name_uz": "Dodiq"
+  },
+  {
+    "id": "725",
+    "district_id": "84",
+    "name_uz": "Jar"
+  },
+  {
+    "id": "727",
+    "district_id": "84",
+    "name_uz": "Ko'kdala"
+  },
+  {
+    "id": "729",
+    "district_id": "84",
+    "name_uz": "Qalqama"
+  },
+  {
+    "id": "731",
+    "district_id": "84",
+    "name_uz": "Qumdaryo"
+  },
+  {
+    "id": "732",
+    "district_id": "84",
+    "name_uz": "Langar"
+  },
+  {
+    "id": "733",
+    "district_id": "84",
+    "name_uz": "Mirzato'p"
+  },
+  {
+    "id": "736",
+    "district_id": "84",
+    "name_uz": "Pakandi"
+  },
+  {
+    "id": "739",
+    "district_id": "84",
+    "name_uz": "Taraqqiyot"
+  },
+  {
+    "id": "740",
+    "district_id": "84",
+    "name_uz": "Torjilg'a"
+  },
+  {
+    "id": "741",
+    "district_id": "84",
+    "name_uz": "Uymovut"
+  },
+  {
+    "id": "742",
+    "district_id": "84",
+    "name_uz": "O'ymovut"
+  },
+  {
+    "id": "743",
+    "district_id": "84",
+    "name_uz": "Uyshun"
+  },
+  {
+    "id": "744",
+    "district_id": "84",
+    "name_uz": "Xumo"
+  },
+  {
+    "id": "745",
+    "district_id": "84",
+    "name_uz": "Chiroqchi"
+  },
+  {
+    "id": "746",
+    "district_id": "84",
+    "name_uz": "Chiyal"
+  },
+  {
+    "id": "748",
+    "district_id": "84",
+    "name_uz": "Sho'rquduq"
+  },
+  {
+    "id": "749",
+    "district_id": "84",
+    "name_uz": "Eski Anxor"
+  },
+  {
+    "id": "750",
+    "district_id": "84",
+    "name_uz": "Yangihayot"
+  },
+  {
+    "id": "751",
+    "district_id": "85",
+    "name_uz": "Ammog'on-1"
+  },
+  {
+    "id": "752",
+    "district_id": "85",
+    "name_uz": "Anday"
+  },
+  {
+    "id": "753",
+    "district_id": "85",
+    "name_uz": "Do'xchi"
+  },
+  {
+    "id": "754",
+    "district_id": "85",
+    "name_uz": "Keldihayot"
+  },
+  {
+    "id": "755",
+    "district_id": "85",
+    "name_uz": "Kunchiqar"
+  },
+  {
+    "id": "756",
+    "district_id": "85",
+    "name_uz": "Qumqishloq"
+  },
+  {
+    "id": "757",
+    "district_id": "85",
+    "name_uz": "Qutchi"
+  },
+  {
+    "id": "759",
+    "district_id": "85",
+    "name_uz": "Qo'shqanot"
+  },
+  {
+    "id": "760",
+    "district_id": "85",
+    "name_uz": "Miraki"
+  },
+  {
+    "id": "761",
+    "district_id": "85",
+    "name_uz": "Mo'minobod"
+  },
+  {
+    "id": "762",
+    "district_id": "85",
+    "name_uz": "Namaton"
+  },
+  {
+    "id": "763",
+    "district_id": "85",
+    "name_uz": "Oq suv"
+  },
+  {
+    "id": "764",
+    "district_id": "85",
+    "name_uz": "Temirchi"
+  },
+  {
+    "id": "765",
+    "district_id": "85",
+    "name_uz": "To'damaydon"
+  },
+  {
+    "id": "767",
+    "district_id": "85",
+    "name_uz": "O'rtaqo'rg'on"
+  },
+  {
+    "id": "768",
+    "district_id": "85",
+    "name_uz": "Xitoy"
+  },
+  {
+    "id": "769",
+    "district_id": "85",
+    "name_uz": "Xo'jaxuroson"
+  },
+  {
+    "id": "770",
+    "district_id": "85",
+    "name_uz": "Hisorak"
+  },
+  {
+    "id": "771",
+    "district_id": "85",
+    "name_uz": "Chorshanbe"
+  },
+  {
+    "id": "772",
+    "district_id": "85",
+    "name_uz": "Shakarteri"
+  },
+  {
+    "id": "773",
+    "district_id": "85",
+    "name_uz": "Shamaton"
+  },
+  {
+    "id": "775",
+    "district_id": "85",
+    "name_uz": "Yangiqishloq"
+  },
+  {
+    "id": "776",
+    "district_id": "86",
+    "name_uz": "Alako'ylak"
+  },
+  {
+    "id": "777",
+    "district_id": "86",
+    "name_uz": "Alaqarg'a"
+  },
+  {
+    "id": "778",
+    "district_id": "86",
+    "name_uz": "Jarqirg'iz"
+  },
+  {
+    "id": "779",
+    "district_id": "86",
+    "name_uz": "Kattabog'"
+  },
+  {
+    "id": "780",
+    "district_id": "86",
+    "name_uz": "Qayrag'och"
+  },
+  {
+    "id": "783",
+    "district_id": "86",
+    "name_uz": "Qishliq"
+  },
+  {
+    "id": "784",
+    "district_id": "86",
+    "name_uz": "Qo'shchinor"
+  },
+  {
+    "id": "787",
+    "district_id": "86",
+    "name_uz": "Samoq"
+  },
+  {
+    "id": "789",
+    "district_id": "86",
+    "name_uz": "Sandal"
+  },
+  {
+    "id": "790",
+    "district_id": "86",
+    "name_uz": "Turon"
+  },
+  {
+    "id": "791",
+    "district_id": "86",
+    "name_uz": "O'z"
+  },
+  {
+    "id": "792",
+    "district_id": "86",
+    "name_uz": "O'rta"
+  },
+  {
+    "id": "793",
+    "district_id": "86",
+    "name_uz": "Hiyobon"
+  },
+  {
+    "id": "794",
+    "district_id": "86",
+    "name_uz": "Chaydori"
+  },
+  {
+    "id": "795",
+    "district_id": "86",
+    "name_uz": "Chubron"
+  },
+  {
+    "id": "796",
+    "district_id": "86",
+    "name_uz": "Edilbek"
+  },
+  {
+    "id": "797",
+    "district_id": "86",
+    "name_uz": "Esat"
+  },
+  {
+    "id": "798",
+    "district_id": "86",
+    "name_uz": "Eski Yakkabog'"
+  },
+  {
+    "id": "799",
+    "district_id": "86",
+    "name_uz": "Yakkabog'"
+  },
+  {
+    "id": "801",
+    "district_id": "88",
+    "name_uz": "Yoshlik"
+  },
+  {
+    "id": "802",
+    "district_id": "88",
+    "name_uz": "Jaloyir"
+  },
+  {
+    "id": "803",
+    "district_id": "88",
+    "name_uz": "Kamolot"
+  },
+  {
+    "id": "804",
+    "district_id": "88",
+    "name_uz": "Karmana"
+  },
+  {
+    "id": "805",
+    "district_id": "88",
+    "name_uz": "Malikrabot"
+  },
+  {
+    "id": "806",
+    "district_id": "88",
+    "name_uz": "Narpay"
+  },
+  {
+    "id": "808",
+    "district_id": "88",
+    "name_uz": "Podkoron"
+  },
+  {
+    "id": "809",
+    "district_id": "88",
+    "name_uz": "Uyrot"
+  },
+  {
+    "id": "810",
+    "district_id": "88",
+    "name_uz": "Xazora"
+  },
+  {
+    "id": "811",
+    "district_id": "88",
+    "name_uz": "Yangiariq"
+  },
+  {
+    "id": "812",
+    "district_id": "90",
+    "name_uz": "Balaqaraq"
+  },
+  {
+    "id": "813",
+    "district_id": "90",
+    "name_uz": "Boymurot"
+  },
+  {
+    "id": "815",
+    "district_id": "90",
+    "name_uz": "Karakata"
+  },
+  {
+    "id": "816",
+    "district_id": "90",
+    "name_uz": "Konimex"
+  },
+  {
+    "id": "817",
+    "district_id": "90",
+    "name_uz": "Mamiqchi"
+  },
+  {
+    "id": "818",
+    "district_id": "90",
+    "name_uz": "Sarajal"
+  },
+  {
+    "id": "819",
+    "district_id": "90",
+    "name_uz": "Uchtobe"
+  },
+  {
+    "id": "820",
+    "district_id": "90",
+    "name_uz": "Chordara"
+  },
+  {
+    "id": "821",
+    "district_id": "90",
+    "name_uz": "Sho'rtepa"
+  },
+  {
+    "id": "822",
+    "district_id": "90",
+    "name_uz": "Yangig'ozg'on"
+  },
+  {
+    "id": "824",
+    "district_id": "89",
+    "name_uz": "Arabon"
+  },
+  {
+    "id": "825",
+    "district_id": "89",
+    "name_uz": "Baland G'ardiyon"
+  },
+  {
+    "id": "827",
+    "district_id": "89",
+    "name_uz": "Vang'ozi"
+  },
+  {
+    "id": "829",
+    "district_id": "89",
+    "name_uz": "G'amxo'r"
+  },
+  {
+    "id": "830",
+    "district_id": "89",
+    "name_uz": "G'ardiyon"
+  },
+  {
+    "id": "831",
+    "district_id": "89",
+    "name_uz": "G'oyibon"
+  },
+  {
+    "id": "832",
+    "district_id": "89",
+    "name_uz": "Zarmetan"
+  },
+  {
+    "id": "833",
+    "district_id": "89",
+    "name_uz": "Zarmitan"
+  },
+  {
+    "id": "834",
+    "district_id": "89",
+    "name_uz": "Qalayn-Azizon"
+  },
+  {
+    "id": "837",
+    "district_id": "89",
+    "name_uz": "Oq soch"
+  },
+  {
+    "id": "838",
+    "district_id": "89",
+    "name_uz": "Oqmachit"
+  },
+  {
+    "id": "839",
+    "district_id": "89",
+    "name_uz": "Uzilishkent"
+  },
+  {
+    "id": "841",
+    "district_id": "89",
+    "name_uz": "Xo'ja-Hasan"
+  },
+  {
+    "id": "842",
+    "district_id": "89",
+    "name_uz": "Xo'jaqo'rg'on"
+  },
+  {
+    "id": "843",
+    "district_id": "89",
+    "name_uz": "Husbuddin"
+  },
+  {
+    "id": "844",
+    "district_id": "89",
+    "name_uz": "Yangi Hayot"
+  },
+  {
+    "id": "845",
+    "district_id": "91",
+    "name_uz": "Arabsaroy"
+  },
+  {
+    "id": "846",
+    "district_id": "91",
+    "name_uz": "Beshrabot"
+  },
+  {
+    "id": "847",
+    "district_id": "91",
+    "name_uz": "Ijant"
+  },
+  {
+    "id": "848",
+    "district_id": "91",
+    "name_uz": "Kalkonota"
+  },
+  {
+    "id": "849",
+    "district_id": "91",
+    "name_uz": "Keskanterak"
+  },
+  {
+    "id": "851",
+    "district_id": "91",
+    "name_uz": "Quyi Beshrabot"
+  },
+  {
+    "id": "852",
+    "district_id": "91",
+    "name_uz": "Olchin"
+  },
+  {
+    "id": "854",
+    "district_id": "91",
+    "name_uz": "Turkiston"
+  },
+  {
+    "id": "855",
+    "district_id": "91",
+    "name_uz": "Yangi-yo'l"
+  },
+  {
+    "id": "856",
+    "district_id": "91",
+    "name_uz": "Yangiqo'rg'on"
+  },
+  {
+    "id": "858",
+    "district_id": "93",
+    "name_uz": "Gum"
+  },
+  {
+    "id": "859",
+    "district_id": "93",
+    "name_uz": "G'ozg'on"
+  },
+  {
+    "id": "860",
+    "district_id": "93",
+    "name_uz": "Dehibaland"
+  },
+  {
+    "id": "863",
+    "district_id": "93",
+    "name_uz": "Nurota"
+  },
+  {
+    "id": "865",
+    "district_id": "93",
+    "name_uz": "Sentob"
+  },
+  {
+    "id": "866",
+    "district_id": "93",
+    "name_uz": "Temurqovuq"
+  },
+  {
+    "id": "867",
+    "district_id": "93",
+    "name_uz": "Chuya"
+  },
+  {
+    "id": "869",
+    "district_id": "93",
+    "name_uz": "Yangibino"
+  },
+  {
+    "id": "870",
+    "district_id": "94",
+    "name_uz": "Ayaqquduq"
+  },
+  {
+    "id": "871",
+    "district_id": "94",
+    "name_uz": "Keregetau"
+  },
+  {
+    "id": "872",
+    "district_id": "94",
+    "name_uz": "Keriz"
+  },
+  {
+    "id": "873",
+    "district_id": "94",
+    "name_uz": "Oktau"
+  },
+  {
+    "id": "874",
+    "district_id": "94",
+    "name_uz": "Suketti"
+  },
+  {
+    "id": "875",
+    "district_id": "94",
+    "name_uz": "Tomdibuloq"
+  },
+  {
+    "id": "877",
+    "district_id": "94",
+    "name_uz": "Shiyeli"
+  },
+  {
+    "id": "878",
+    "district_id": "95",
+    "name_uz": "Altintov"
+  },
+  {
+    "id": "879",
+    "district_id": "95",
+    "name_uz": "Bozdun"
+  },
+  {
+    "id": "880",
+    "district_id": "95",
+    "name_uz": "Ko'kayaz"
+  },
+  {
+    "id": "882",
+    "district_id": "95",
+    "name_uz": "Shalxar"
+  },
+  {
+    "id": "883",
+    "district_id": "95",
+    "name_uz": "Uchquduq"
+  },
+  {
+    "id": "884",
+    "district_id": "95",
+    "name_uz": "Uzunquduq"
+  },
+  {
+    "id": "885",
+    "district_id": "96",
+    "name_uz": "Bog'chakalon"
+  },
+  {
+    "id": "887",
+    "district_id": "96",
+    "name_uz": "G'alabek"
+  },
+  {
+    "id": "889",
+    "district_id": "96",
+    "name_uz": "Ko'ksaroy"
+  },
+  {
+    "id": "892",
+    "district_id": "96",
+    "name_uz": "Olchinobod"
+  },
+  {
+    "id": "894",
+    "district_id": "96",
+    "name_uz": "Polvontepa"
+  },
+  {
+    "id": "895",
+    "district_id": "96",
+    "name_uz": "Pulkan shoir"
+  },
+  {
+    "id": "898",
+    "district_id": "96",
+    "name_uz": "Qoracha"
+  },
+  {
+    "id": "899",
+    "district_id": "96",
+    "name_uz": "Sahovat"
+  },
+  {
+    "id": "900",
+    "district_id": "96",
+    "name_uz": "Tasmachi"
+  },
+  {
+    "id": "901",
+    "district_id": "96",
+    "name_uz": "Turkman"
+  },
+  {
+    "id": "902",
+    "district_id": "96",
+    "name_uz": "Xonaqa"
+  },
+  {
+    "id": "903",
+    "district_id": "96",
+    "name_uz": "Yangi qurilish"
+  },
+  {
+    "id": "904",
+    "district_id": "96",
+    "name_uz": "Yangirabod"
+  },
+  {
+    "id": "906",
+    "district_id": "87",
+    "name_uz": "Nuruntau"
+  },
+  {
+    "id": "908",
+    "district_id": "97",
+    "name_uz": "Chindavul"
+  },
+  {
+    "id": "909",
+    "district_id": "97",
+    "name_uz": "Chindovul"
+  },
+  {
+    "id": "910",
+    "district_id": "97",
+    "name_uz": "Chust ko'cha"
+  },
+  {
+    "id": "914",
+    "district_id": "97",
+    "name_uz": "Kosonsoy"
+  },
+  {
+    "id": "915",
+    "district_id": "97",
+    "name_uz": "Ozod"
+  },
+  {
+    "id": "917",
+    "district_id": "97",
+    "name_uz": "Ququmboy"
+  },
+  {
+    "id": "920",
+    "district_id": "97",
+    "name_uz": "Tergachi"
+  },
+  {
+    "id": "922",
+    "district_id": "97",
+    "name_uz": "Yangi shahar"
+  },
+  {
+    "id": "923",
+    "district_id": "97",
+    "name_uz": "Yangiyo'l"
+  },
+  {
+    "id": "925",
+    "district_id": "97",
+    "name_uz": "Yangishahar"
+  },
+  {
+    "id": "927",
+    "district_id": "98",
+    "name_uz": "Dovduq"
+  },
+  {
+    "id": "929",
+    "district_id": "98",
+    "name_uz": "Go'rtepa"
+  },
+  {
+    "id": "932",
+    "district_id": "98",
+    "name_uz": "Jo'masho'y"
+  },
+  {
+    "id": "933",
+    "district_id": "98",
+    "name_uz": "Kugolikul"
+  },
+  {
+    "id": "934",
+    "district_id": "98",
+    "name_uz": "Madyarovul"
+  },
+  {
+    "id": "937",
+    "district_id": "98",
+    "name_uz": "Momoxon"
+  },
+  {
+    "id": "938",
+    "district_id": "98",
+    "name_uz": "O'zgarish"
+  },
+  {
+    "id": "940",
+    "district_id": "100",
+    "name_uz": "Davlatobod tumani"
+  },
+  {
+    "id": "941",
+    "district_id": "100",
+    "name_uz": "Namangan shahrining tumanlari"
+  },
+  {
+    "id": "942",
+    "district_id": "100",
+    "name_uz": "Yangi Namangan tumani"
+  },
+  {
+    "id": "951",
+    "district_id": "99",
+    "name_uz": "Qumqo'rg'on"
+  },
+  {
+    "id": "953",
+    "district_id": "99",
+    "name_uz": "Sho'rqishloq"
+  },
+  {
+    "id": "954",
+    "district_id": "99",
+    "name_uz": "Sho'rqo'rg'on"
+  },
+  {
+    "id": "955",
+    "district_id": "99",
+    "name_uz": "Tepaqo'rg'on"
+  },
+  {
+    "id": "956",
+    "district_id": "99",
+    "name_uz": "Toshbuloq"
+  },
+  {
+    "id": "957",
+    "district_id": "99",
+    "name_uz": "Xonabod"
+  },
+  {
+    "id": "958",
+    "district_id": "101",
+    "name_uz": "Chambil"
+  },
+  {
+    "id": "959",
+    "district_id": "101",
+    "name_uz": "Marg'izor"
+  },
+  {
+    "id": "960",
+    "district_id": "101",
+    "name_uz": "Marg'uzar"
+  },
+  {
+    "id": "961",
+    "district_id": "101",
+    "name_uz": "Norinkapa"
+  },
+  {
+    "id": "963",
+    "district_id": "101",
+    "name_uz": "Pastki cho'ja"
+  },
+  {
+    "id": "964",
+    "district_id": "101",
+    "name_uz": "Paxtaqishloq"
+  },
+  {
+    "id": "966",
+    "district_id": "101",
+    "name_uz": "Qorateri"
+  },
+  {
+    "id": "967",
+    "district_id": "101",
+    "name_uz": "Sho'ra"
+  },
+  {
+    "id": "968",
+    "district_id": "101",
+    "name_uz": "To'da"
+  },
+  {
+    "id": "969",
+    "district_id": "101",
+    "name_uz": "Toshloq"
+  },
+  {
+    "id": "972",
+    "district_id": "101",
+    "name_uz": "Xaqqulobod"
+  },
+  {
+    "id": "975",
+    "district_id": "102",
+    "name_uz": "Chodak"
+  },
+  {
+    "id": "977",
+    "district_id": "102",
+    "name_uz": "Chorkesar"
+  },
+  {
+    "id": "978",
+    "district_id": "102",
+    "name_uz": "Chorkesar-2"
+  },
+  {
+    "id": "979",
+    "district_id": "102",
+    "name_uz": "G'urumsaroy"
+  },
+  {
+    "id": "985",
+    "district_id": "102",
+    "name_uz": "Oltinkon"
+  },
+  {
+    "id": "987",
+    "district_id": "102",
+    "name_uz": "Pop"
+  },
+  {
+    "id": "989",
+    "district_id": "102",
+    "name_uz": "Pungon"
+  },
+  {
+    "id": "991",
+    "district_id": "102",
+    "name_uz": "Qandig'on"
+  },
+  {
+    "id": "992",
+    "district_id": "102",
+    "name_uz": "Qurg'onobod"
+  },
+  {
+    "id": "993",
+    "district_id": "102",
+    "name_uz": "Sang"
+  },
+  {
+    "id": "994",
+    "district_id": "102",
+    "name_uz": "Sirdaryo"
+  },
+  {
+    "id": "997",
+    "district_id": "102",
+    "name_uz": "Uyg'ursoy"
+  },
+  {
+    "id": "998",
+    "district_id": "102",
+    "name_uz": "Xalqobod"
+  },
+  {
+    "id": "999",
+    "district_id": "102",
+    "name_uz": "Yangi hayot"
+  },
+  {
+    "id": "1000",
+    "district_id": "102",
+    "name_uz": "Yangi Xo'jaobod"
+  },
+  {
+    "id": "1001",
+    "district_id": "103",
+    "name_uz": "Axsi"
+  },
+  {
+    "id": "1003",
+    "district_id": "103",
+    "name_uz": "Buramatut"
+  },
+  {
+    "id": "1005",
+    "district_id": "103",
+    "name_uz": "Kalvak"
+  },
+  {
+    "id": "1006",
+    "district_id": "103",
+    "name_uz": "Katagansaroy"
+  },
+  {
+    "id": "1007",
+    "district_id": "103",
+    "name_uz": "Katagon"
+  },
+  {
+    "id": "1008",
+    "district_id": "103",
+    "name_uz": "Kichikqurama"
+  },
+  {
+    "id": "1009",
+    "district_id": "103",
+    "name_uz": "Mozorko'xna"
+  },
+  {
+    "id": "1010",
+    "district_id": "103",
+    "name_uz": "Namdon"
+  },
+  {
+    "id": "1014",
+    "district_id": "103",
+    "name_uz": "Sayram"
+  },
+  {
+    "id": "1015",
+    "district_id": "103",
+    "name_uz": "Shaxand"
+  },
+  {
+    "id": "1017",
+    "district_id": "103",
+    "name_uz": "To'raqo'rg'on"
+  },
+  {
+    "id": "1018",
+    "district_id": "103",
+    "name_uz": "Xo'jand"
+  },
+  {
+    "id": "1019",
+    "district_id": "103",
+    "name_uz": "Yandama"
+  },
+  {
+    "id": "1021",
+    "district_id": "103",
+    "name_uz": "Yettikon"
+  },
+  {
+    "id": "1025",
+    "district_id": "105",
+    "name_uz": "Qayqi"
+  },
+  {
+    "id": "1027",
+    "district_id": "105",
+    "name_uz": "Qo'g'ay"
+  },
+  {
+    "id": "1029",
+    "district_id": "105",
+    "name_uz": "Qo'g'ay-o'lmas"
+  },
+  {
+    "id": "1030",
+    "district_id": "105",
+    "name_uz": "Uchqo'rg'on"
+  },
+  {
+    "id": "1031",
+    "district_id": "105",
+    "name_uz": "Uchyog'och"
+  },
+  {
+    "id": "1032",
+    "district_id": "105",
+    "name_uz": "Yangi yor"
+  },
+  {
+    "id": "1035",
+    "district_id": "105",
+    "name_uz": "Yashiq"
+  },
+  {
+    "id": "1039",
+    "district_id": "104",
+    "name_uz": "Boyog'on"
+  },
+  {
+    "id": "1040",
+    "district_id": "104",
+    "name_uz": "Churtuk"
+  },
+  {
+    "id": "1041",
+    "district_id": "104",
+    "name_uz": "Fayziobod"
+  },
+  {
+    "id": "1042",
+    "district_id": "104",
+    "name_uz": "G'ayrat"
+  },
+  {
+    "id": "1044",
+    "district_id": "104",
+    "name_uz": "Jiydakapa"
+  },
+  {
+    "id": "1046",
+    "district_id": "104",
+    "name_uz": "Kichik toshloq"
+  },
+  {
+    "id": "1047",
+    "district_id": "104",
+    "name_uz": "Mashad"
+  },
+  {
+    "id": "1049",
+    "district_id": "104",
+    "name_uz": "O'nxayat"
+  },
+  {
+    "id": "1050",
+    "district_id": "104",
+    "name_uz": "Soku"
+  },
+  {
+    "id": "1052",
+    "district_id": "104",
+    "name_uz": "Uychi"
+  },
+  {
+    "id": "1054",
+    "district_id": "104",
+    "name_uz": "Yorkatay"
+  },
+  {
+    "id": "1055",
+    "district_id": "104",
+    "name_uz": "Yorqo'rg'on"
+  },
+  {
+    "id": "1057",
+    "district_id": "108",
+    "name_uz": "Bekobod"
+  },
+  {
+    "id": "1059",
+    "district_id": "108",
+    "name_uz": "Birlashkan"
+  },
+  {
+    "id": "1060",
+    "district_id": "108",
+    "name_uz": "G'ovazon"
+  },
+  {
+    "id": "1061",
+    "district_id": "108",
+    "name_uz": "Iskavot"
+  },
+  {
+    "id": "1063",
+    "district_id": "108",
+    "name_uz": "Kalisho"
+  },
+  {
+    "id": "1064",
+    "district_id": "108",
+    "name_uz": "Ko'kyor"
+  },
+  {
+    "id": "1065",
+    "district_id": "108",
+    "name_uz": "Nanay"
+  },
+  {
+    "id": "1067",
+    "district_id": "108",
+    "name_uz": "Navkent"
+  },
+  {
+    "id": "1069",
+    "district_id": "108",
+    "name_uz": "Navro'zobod"
+  },
+  {
+    "id": "1070",
+    "district_id": "108",
+    "name_uz": "Poromon"
+  },
+  {
+    "id": "1072",
+    "district_id": "108",
+    "name_uz": "Qizil qiyoq"
+  },
+  {
+    "id": "1073",
+    "district_id": "108",
+    "name_uz": "Qorachasho'rkent"
+  },
+  {
+    "id": "1074",
+    "district_id": "108",
+    "name_uz": "Qorapolvon"
+  },
+  {
+    "id": "1076",
+    "district_id": "108",
+    "name_uz": "Qorayong'oq"
+  },
+  {
+    "id": "1078",
+    "district_id": "108",
+    "name_uz": "Salmon"
+  },
+  {
+    "id": "1079",
+    "district_id": "108",
+    "name_uz": "Sangiston"
+  },
+  {
+    "id": "1081",
+    "district_id": "108",
+    "name_uz": "Xo'jasho'rkent"
+  },
+  {
+    "id": "1083",
+    "district_id": "108",
+    "name_uz": "Yumaloqtepa"
+  },
+  {
+    "id": "1085",
+    "district_id": "108",
+    "name_uz": "Zarkent"
+  },
+  {
+    "id": "1087",
+    "district_id": "107",
+    "name_uz": "Axcha"
+  },
+  {
+    "id": "1089",
+    "district_id": "107",
+    "name_uz": "Baymoq"
+  },
+  {
+    "id": "1090",
+    "district_id": "107",
+    "name_uz": "Chust"
+  },
+  {
+    "id": "1091",
+    "district_id": "107",
+    "name_uz": "G'ova"
+  },
+  {
+    "id": "1093",
+    "district_id": "107",
+    "name_uz": "Karkidon"
+  },
+  {
+    "id": "1095",
+    "district_id": "107",
+    "name_uz": "Karnon"
+  },
+  {
+    "id": "1097",
+    "district_id": "107",
+    "name_uz": "Og'asaray"
+  },
+  {
+    "id": "1098",
+    "district_id": "107",
+    "name_uz": "Olmos"
+  },
+  {
+    "id": "1101",
+    "district_id": "107",
+    "name_uz": "Sarimsoqtepa"
+  },
+  {
+    "id": "1102",
+    "district_id": "107",
+    "name_uz": "Sho'rkent"
+  },
+  {
+    "id": "1103",
+    "district_id": "107",
+    "name_uz": "Shoyon"
+  },
+  {
+    "id": "1105",
+    "district_id": "107",
+    "name_uz": "Varzik"
+  },
+  {
+    "id": "1107",
+    "district_id": "107",
+    "name_uz": "Xisorak"
+  },
+  {
+    "id": "1110",
+    "district_id": "106",
+    "name_uz": "Alixon"
+  },
+  {
+    "id": "1112",
+    "district_id": "106",
+    "name_uz": "Ayqiron"
+  },
+  {
+    "id": "1114",
+    "district_id": "106",
+    "name_uz": "Baliqli ko'l"
+  },
+  {
+    "id": "1115",
+    "district_id": "106",
+    "name_uz": "Bog'iston"
+  },
+  {
+    "id": "1116",
+    "district_id": "106",
+    "name_uz": "Chortoq"
+  },
+  {
+    "id": "1117",
+    "district_id": "106",
+    "name_uz": "Karaskan"
+  },
+  {
+    "id": "1118",
+    "district_id": "106",
+    "name_uz": "Ko'shan"
+  },
+  {
+    "id": "1119",
+    "district_id": "106",
+    "name_uz": "Koroskon"
+  },
+  {
+    "id": "1120",
+    "district_id": "106",
+    "name_uz": "Muchum"
+  },
+  {
+    "id": "1122",
+    "district_id": "106",
+    "name_uz": "Ora ariq"
+  },
+  {
+    "id": "1123",
+    "district_id": "106",
+    "name_uz": "Pastki Peshqo'rg'on"
+  },
+  {
+    "id": "1124",
+    "district_id": "106",
+    "name_uz": "Peshqo'rg'on"
+  },
+  {
+    "id": "1127",
+    "district_id": "106",
+    "name_uz": "Xazratishox"
+  },
+  {
+    "id": "1129",
+    "district_id": "106",
+    "name_uz": "Yuqori Peshqo'rg'on"
+  },
+  {
+    "id": "1132",
+    "district_id": "109",
+    "name_uz": "Bulung'ur"
+  },
+  {
+    "id": "1133",
+    "district_id": "109",
+    "name_uz": "F.Yo'ldoshev nomli"
+  },
+  {
+    "id": "1134",
+    "district_id": "109",
+    "name_uz": "Kildon"
+  },
+  {
+    "id": "1136",
+    "district_id": "109",
+    "name_uz": "Kulchabiy"
+  },
+  {
+    "id": "1138",
+    "district_id": "109",
+    "name_uz": "O'rtabuloq"
+  },
+  {
+    "id": "1139",
+    "district_id": "109",
+    "name_uz": "Soxibkor"
+  },
+  {
+    "id": "1141",
+    "district_id": "111",
+    "name_uz": "Azamat"
+  },
+  {
+    "id": "1143",
+    "district_id": "111",
+    "name_uz": "Bahrin"
+  },
+  {
+    "id": "1145",
+    "district_id": "111",
+    "name_uz": "Damariq"
+  },
+  {
+    "id": "1147",
+    "district_id": "111",
+    "name_uz": "Halqabod"
+  },
+  {
+    "id": "1148",
+    "district_id": "111",
+    "name_uz": "Haqiqat"
+  },
+  {
+    "id": "1149",
+    "district_id": "111",
+    "name_uz": "Ishtixon"
+  },
+  {
+    "id": "1150",
+    "district_id": "111",
+    "name_uz": "Mitan"
+  },
+  {
+    "id": "1151",
+    "district_id": "111",
+    "name_uz": "O'rtaqishloq"
+  },
+  {
+    "id": "1152",
+    "district_id": "111",
+    "name_uz": "Odil"
+  },
+  {
+    "id": "1153",
+    "district_id": "111",
+    "name_uz": "Qirqyigit"
+  },
+  {
+    "id": "1154",
+    "district_id": "111",
+    "name_uz": "Qurli"
+  },
+  {
+    "id": "1155",
+    "district_id": "111",
+    "name_uz": "Ravot"
+  },
+  {
+    "id": "1156",
+    "district_id": "111",
+    "name_uz": "Shayxislom"
+  },
+  {
+    "id": "1157",
+    "district_id": "111",
+    "name_uz": "Sheyxlar"
+  },
+  {
+    "id": "1158",
+    "district_id": "111",
+    "name_uz": "Sug'ot"
+  },
+  {
+    "id": "1161",
+    "district_id": "111",
+    "name_uz": "Yangirabot"
+  },
+  {
+    "id": "1162",
+    "district_id": "111",
+    "name_uz": "Zarband"
+  },
+  {
+    "id": "1165",
+    "district_id": "110",
+    "name_uz": "Eski Jomboy"
+  },
+  {
+    "id": "1166",
+    "district_id": "110",
+    "name_uz": "G'azira"
+  },
+  {
+    "id": "1167",
+    "district_id": "110",
+    "name_uz": "Jomboy"
+  },
+  {
+    "id": "1169",
+    "district_id": "110",
+    "name_uz": "Juriyat"
+  },
+  {
+    "id": "1170",
+    "district_id": "110",
+    "name_uz": "Kattaqishloq"
+  },
+  {
+    "id": "1171",
+    "district_id": "110",
+    "name_uz": "Qangli"
+  },
+  {
+    "id": "1173",
+    "district_id": "110",
+    "name_uz": "Qoramuyin"
+  },
+  {
+    "id": "1174",
+    "district_id": "110",
+    "name_uz": "Sherqo'rg'on"
+  },
+  {
+    "id": "1175",
+    "district_id": "110",
+    "name_uz": "Xo'ja"
+  },
+  {
+    "id": "1176",
+    "district_id": "110",
+    "name_uz": "Xolvoyi"
+  },
+  {
+    "id": "1177",
+    "district_id": "113",
+    "name_uz": "Ingichka"
+  },
+  {
+    "id": "1178",
+    "district_id": "112",
+    "name_uz": "Durbesh"
+  },
+  {
+    "id": "1179",
+    "district_id": "112",
+    "name_uz": "Girdiqo'rg'on"
+  },
+  {
+    "id": "1180",
+    "district_id": "112",
+    "name_uz": "Jumaboy"
+  },
+  {
+    "id": "1181",
+    "district_id": "112",
+    "name_uz": "Kattako'rpa"
+  },
+  {
+    "id": "1182",
+    "district_id": "112",
+    "name_uz": "Kattaming"
+  },
+  {
+    "id": "1184",
+    "district_id": "112",
+    "name_uz": "Kichikmundiyon"
+  },
+  {
+    "id": "1185",
+    "district_id": "112",
+    "name_uz": "Moybuloq"
+  },
+  {
+    "id": "1186",
+    "district_id": "112",
+    "name_uz": "Mundiyon"
+  },
+  {
+    "id": "1187",
+    "district_id": "112",
+    "name_uz": "Omonboy"
+  },
+  {
+    "id": "1188",
+    "district_id": "112",
+    "name_uz": "Payshanba"
+  },
+  {
+    "id": "1191",
+    "district_id": "112",
+    "name_uz": "Qoradaryo"
+  },
+  {
+    "id": "1192",
+    "district_id": "112",
+    "name_uz": "Saroyqo'rg'on"
+  },
+  {
+    "id": "1193",
+    "district_id": "112",
+    "name_uz": "Suv xovuzi"
+  },
+  {
+    "id": "1194",
+    "district_id": "112",
+    "name_uz": "Vayrat"
+  },
+  {
+    "id": "1195",
+    "district_id": "112",
+    "name_uz": "Yangiqo'rg'oncha"
+  },
+  {
+    "id": "1197",
+    "district_id": "115",
+    "name_uz": "Balandqo'rg'on"
+  },
+  {
+    "id": "1198",
+    "district_id": "115",
+    "name_uz": "Chaqar"
+  },
+  {
+    "id": "1200",
+    "district_id": "115",
+    "name_uz": "Islom Shoir"
+  },
+  {
+    "id": "1201",
+    "district_id": "115",
+    "name_uz": "Kosogoron"
+  },
+  {
+    "id": "1202",
+    "district_id": "115",
+    "name_uz": "Mirbozor"
+  },
+  {
+    "id": "1203",
+    "district_id": "115",
+    "name_uz": "Oltio'g'il"
+  },
+  {
+    "id": "1206",
+    "district_id": "115",
+    "name_uz": "Qo'yi Charxin"
+  },
+  {
+    "id": "1208",
+    "district_id": "115",
+    "name_uz": "Qorasiyrak"
+  },
+  {
+    "id": "1210",
+    "district_id": "116",
+    "name_uz": "Jarquduq"
+  },
+  {
+    "id": "1211",
+    "district_id": "116",
+    "name_uz": "Jom"
+  },
+  {
+    "id": "1212",
+    "district_id": "116",
+    "name_uz": "Nurbuloq"
+  },
+  {
+    "id": "1214",
+    "district_id": "116",
+    "name_uz": "Nurobod"
+  },
+  {
+    "id": "1215",
+    "district_id": "116",
+    "name_uz": "Sazog'on"
+  },
+  {
+    "id": "1216",
+    "district_id": "116",
+    "name_uz": "Tim"
+  },
+  {
+    "id": "1217",
+    "district_id": "116",
+    "name_uz": "Tutli"
+  },
+  {
+    "id": "1218",
+    "district_id": "116",
+    "name_uz": "Ulus"
+  },
+  {
+    "id": "1220",
+    "district_id": "117",
+    "name_uz": "Avazali"
+  },
+  {
+    "id": "1221",
+    "district_id": "117",
+    "name_uz": "Bolta"
+  },
+  {
+    "id": "1222",
+    "district_id": "117",
+    "name_uz": "Dahbed"
+  },
+  {
+    "id": "1224",
+    "district_id": "117",
+    "name_uz": "Loyish"
+  },
+  {
+    "id": "1225",
+    "district_id": "117",
+    "name_uz": "Oqdaryo"
+  },
+  {
+    "id": "1226",
+    "district_id": "117",
+    "name_uz": "Oytamg'ali"
+  },
+  {
+    "id": "1227",
+    "district_id": "117",
+    "name_uz": "Primkent"
+  },
+  {
+    "id": "1228",
+    "district_id": "117",
+    "name_uz": "Qirqdarxon"
+  },
+  {
+    "id": "1235",
+    "district_id": "119",
+    "name_uz": "Agron"
+  },
+  {
+    "id": "1236",
+    "district_id": "119",
+    "name_uz": "Anxor"
+  },
+  {
+    "id": "1238",
+    "district_id": "119",
+    "name_uz": "Balhiyon"
+  },
+  {
+    "id": "1239",
+    "district_id": "119",
+    "name_uz": "Besh qahramon"
+  },
+  {
+    "id": "1240",
+    "district_id": "119",
+    "name_uz": "Bolatosh"
+  },
+  {
+    "id": "1241",
+    "district_id": "119",
+    "name_uz": "Charxin"
+  },
+  {
+    "id": "1242",
+    "district_id": "119",
+    "name_uz": "Chimboy"
+  },
+  {
+    "id": "1243",
+    "district_id": "119",
+    "name_uz": "Chortut"
+  },
+  {
+    "id": "1244",
+    "district_id": "119",
+    "name_uz": "Dimishkibolo"
+  },
+  {
+    "id": "1245",
+    "district_id": "119",
+    "name_uz": "Do'rmontepa"
+  },
+  {
+    "id": "1246",
+    "district_id": "119",
+    "name_uz": "Go'zalkent"
+  },
+  {
+    "id": "1248",
+    "district_id": "119",
+    "name_uz": "Hindiboyi"
+  },
+  {
+    "id": "1249",
+    "district_id": "119",
+    "name_uz": "Iskandari"
+  },
+  {
+    "id": "1250",
+    "district_id": "119",
+    "name_uz": "Jag'alboyli"
+  },
+  {
+    "id": "1251",
+    "district_id": "119",
+    "name_uz": "Juma"
+  },
+  {
+    "id": "1252",
+    "district_id": "119",
+    "name_uz": "Mehnat"
+  },
+  {
+    "id": "1255",
+    "district_id": "119",
+    "name_uz": "O'rta Charxin"
+  },
+  {
+    "id": "1256",
+    "district_id": "119",
+    "name_uz": "Po'latchi"
+  },
+  {
+    "id": "1257",
+    "district_id": "119",
+    "name_uz": "Sanchikul"
+  },
+  {
+    "id": "1258",
+    "district_id": "119",
+    "name_uz": "Saribosh"
+  },
+  {
+    "id": "1260",
+    "district_id": "119",
+    "name_uz": "Torariq"
+  },
+  {
+    "id": "1261",
+    "district_id": "120",
+    "name_uz": "Do'stobod"
+  },
+  {
+    "id": "1262",
+    "district_id": "120",
+    "name_uz": "Karnab"
+  },
+  {
+    "id": "1263",
+    "district_id": "120",
+    "name_uz": "Misit"
+  },
+  {
+    "id": "1264",
+    "district_id": "120",
+    "name_uz": "Past Burkut"
+  },
+  {
+    "id": "1265",
+    "district_id": "120",
+    "name_uz": "Qodirist"
+  },
+  {
+    "id": "1266",
+    "district_id": "120",
+    "name_uz": "Quyiboq"
+  },
+  {
+    "id": "1267",
+    "district_id": "120",
+    "name_uz": "Sanchiqul"
+  },
+  {
+    "id": "1269",
+    "district_id": "120",
+    "name_uz": "Suluvqo'rg'on"
+  },
+  {
+    "id": "1270",
+    "district_id": "120",
+    "name_uz": "Urgich"
+  },
+  {
+    "id": "1272",
+    "district_id": "120",
+    "name_uz": "Xumor"
+  },
+  {
+    "id": "1274",
+    "district_id": "120",
+    "name_uz": "Yuqori Po'latchi"
+  },
+  {
+    "id": "1275",
+    "district_id": "120",
+    "name_uz": "Ziyovuddin"
+  },
+  {
+    "id": "1277",
+    "district_id": "118",
+    "name_uz": "Chelak"
+  },
+  {
+    "id": "1278",
+    "district_id": "118",
+    "name_uz": "Choparoshli"
+  },
+  {
+    "id": "1279",
+    "district_id": "118",
+    "name_uz": "Choshtepa"
+  },
+  {
+    "id": "1280",
+    "district_id": "118",
+    "name_uz": "Do'stlarobod"
+  },
+  {
+    "id": "1282",
+    "district_id": "118",
+    "name_uz": "G'ujumsoy"
+  },
+  {
+    "id": "1286",
+    "district_id": "118",
+    "name_uz": "Ko'lto'sin"
+  },
+  {
+    "id": "1287",
+    "district_id": "118",
+    "name_uz": "O'rta saydov"
+  },
+  {
+    "id": "1288",
+    "district_id": "118",
+    "name_uz": "Oqqo'rg'on"
+  },
+  {
+    "id": "1291",
+    "district_id": "118",
+    "name_uz": "Payariq"
+  },
+  {
+    "id": "1294",
+    "district_id": "118",
+    "name_uz": "Sanoat"
+  },
+  {
+    "id": "1295",
+    "district_id": "118",
+    "name_uz": "Tomoyrat"
+  },
+  {
+    "id": "1296",
+    "district_id": "118",
+    "name_uz": "Tupolos"
+  },
+  {
+    "id": "1297",
+    "district_id": "118",
+    "name_uz": "Xo'ja Ismoil"
+  },
+  {
+    "id": "1298",
+    "district_id": "114",
+    "name_uz": "Jush"
+  },
+  {
+    "id": "1301",
+    "district_id": "114",
+    "name_uz": "Pichat"
+  },
+  {
+    "id": "1302",
+    "district_id": "114",
+    "name_uz": "Qo'shrabot"
+  },
+  {
+    "id": "1304",
+    "district_id": "114",
+    "name_uz": "Urgandji"
+  },
+  {
+    "id": "1307",
+    "district_id": "122",
+    "name_uz": "Farxod"
+  },
+  {
+    "id": "1308",
+    "district_id": "122",
+    "name_uz": "Kimyogar"
+  },
+  {
+    "id": "1309",
+    "district_id": "122",
+    "name_uz": "Xishrav"
+  },
+  {
+    "id": "1310",
+    "district_id": "121",
+    "name_uz": "Bog'ibaland"
+  },
+  {
+    "id": "1311",
+    "district_id": "121",
+    "name_uz": "Dashtakibolo"
+  },
+  {
+    "id": "1313",
+    "district_id": "121",
+    "name_uz": "Kattaqo'rg'onariq"
+  },
+  {
+    "id": "1314",
+    "district_id": "121",
+    "name_uz": "Kulbaipoyon"
+  },
+  {
+    "id": "1315",
+    "district_id": "121",
+    "name_uz": "Ohalik"
+  },
+  {
+    "id": "1316",
+    "district_id": "121",
+    "name_uz": "Qaynama"
+  },
+  {
+    "id": "1317",
+    "district_id": "121",
+    "name_uz": "Qo'shtamg'ali"
+  },
+  {
+    "id": "1318",
+    "district_id": "121",
+    "name_uz": "Ulug'bek"
+  },
+  {
+    "id": "1319",
+    "district_id": "121",
+    "name_uz": "Xo'ja Ahrori Vali"
+  },
+  {
+    "id": "1320",
+    "district_id": "123",
+    "name_uz": "Adas"
+  },
+  {
+    "id": "1322",
+    "district_id": "123",
+    "name_uz": "Bog'izag'on"
+  },
+  {
+    "id": "1324",
+    "district_id": "123",
+    "name_uz": "G'o'lba"
+  },
+  {
+    "id": "1327",
+    "district_id": "123",
+    "name_uz": "Qo'rg'oncha"
+  },
+  {
+    "id": "1328",
+    "district_id": "123",
+    "name_uz": "Sochakibolo"
+  },
+  {
+    "id": "1329",
+    "district_id": "123",
+    "name_uz": "Tepaqishloq"
+  },
+  {
+    "id": "1330",
+    "district_id": "123",
+    "name_uz": "Toyloq"
+  },
+  {
+    "id": "1332",
+    "district_id": "124",
+    "name_uz": "Baxrin"
+  },
+  {
+    "id": "1335",
+    "district_id": "124",
+    "name_uz": "G'o's"
+  },
+  {
+    "id": "1337",
+    "district_id": "124",
+    "name_uz": "Ilonli"
+  },
+  {
+    "id": "1338",
+    "district_id": "124",
+    "name_uz": "Ispanza"
+  },
+  {
+    "id": "1340",
+    "district_id": "124",
+    "name_uz": "Jartepa"
+  },
+  {
+    "id": "1342",
+    "district_id": "124",
+    "name_uz": "Kamangaron"
+  },
+  {
+    "id": "1343",
+    "district_id": "124",
+    "name_uz": "Kenagas"
+  },
+  {
+    "id": "1344",
+    "district_id": "124",
+    "name_uz": "Mirzaqishloq"
+  },
+  {
+    "id": "1345",
+    "district_id": "124",
+    "name_uz": "Pochvon"
+  },
+  {
+    "id": "1348",
+    "district_id": "124",
+    "name_uz": "Uramas"
+  },
+  {
+    "id": "1350",
+    "district_id": "124",
+    "name_uz": "Urgut"
+  },
+  {
+    "id": "1352",
+    "district_id": "125",
+    "name_uz": "Angor (mavjud)"
+  },
+  {
+    "id": "1353",
+    "district_id": "125",
+    "name_uz": "Angor (yangi)"
+  },
+  {
+    "id": "1354",
+    "district_id": "125",
+    "name_uz": "Gilambob"
+  },
+  {
+    "id": "1356",
+    "district_id": "125",
+    "name_uz": "Zang"
+  },
+  {
+    "id": "1357",
+    "district_id": "125",
+    "name_uz": "Zartepa"
+  },
+  {
+    "id": "1359",
+    "district_id": "125",
+    "name_uz": "Kayran"
+  },
+  {
+    "id": "1363",
+    "district_id": "125",
+    "name_uz": "Navoiy"
+  },
+  {
+    "id": "1364",
+    "district_id": "125",
+    "name_uz": "Novshahar"
+  },
+  {
+    "id": "1365",
+    "district_id": "125",
+    "name_uz": "Tallimaron"
+  },
+  {
+    "id": "1367",
+    "district_id": "125",
+    "name_uz": "Talloshqon"
+  },
+  {
+    "id": "1368",
+    "district_id": "125",
+    "name_uz": "Xomkon"
+  },
+  {
+    "id": "1369",
+    "district_id": "125",
+    "name_uz": "Yangi turmush"
+  },
+  {
+    "id": "1371",
+    "district_id": "211",
+    "name_uz": "Bandixon"
+  },
+  {
+    "id": "1372",
+    "district_id": "126",
+    "name_uz": "Boysun"
+  },
+  {
+    "id": "1373",
+    "district_id": "126",
+    "name_uz": "Ketmonchi"
+  },
+  {
+    "id": "1374",
+    "district_id": "126",
+    "name_uz": "Kofrun"
+  },
+  {
+    "id": "1375",
+    "district_id": "126",
+    "name_uz": "Qorabo'yin"
+  },
+  {
+    "id": "1378",
+    "district_id": "126",
+    "name_uz": "Machay"
+  },
+  {
+    "id": "1379",
+    "district_id": "126",
+    "name_uz": "Pasurxi"
+  },
+  {
+    "id": "1380",
+    "district_id": "126",
+    "name_uz": "Poyonqo'rg'on"
+  },
+  {
+    "id": "1381",
+    "district_id": "126",
+    "name_uz": "Rabot"
+  },
+  {
+    "id": "1382",
+    "district_id": "126",
+    "name_uz": "Tangimush"
+  },
+  {
+    "id": "1383",
+    "district_id": "126",
+    "name_uz": "Temir darvoza"
+  },
+  {
+    "id": "1384",
+    "district_id": "126",
+    "name_uz": "Chinorli"
+  },
+  {
+    "id": "1385",
+    "district_id": "127",
+    "name_uz": "Anbarsoy"
+  },
+  {
+    "id": "1386",
+    "district_id": "127",
+    "name_uz": "Binokor"
+  },
+  {
+    "id": "1387",
+    "district_id": "127",
+    "name_uz": "Dahana"
+  },
+  {
+    "id": "1392",
+    "district_id": "127",
+    "name_uz": "Jamatak"
+  },
+  {
+    "id": "1394",
+    "district_id": "127",
+    "name_uz": "Qiziljar"
+  },
+  {
+    "id": "1396",
+    "district_id": "127",
+    "name_uz": "Namozgoh"
+  },
+  {
+    "id": "1397",
+    "district_id": "127",
+    "name_uz": "Paxtakurash"
+  },
+  {
+    "id": "1398",
+    "district_id": "127",
+    "name_uz": "Pistamozor"
+  },
+  {
+    "id": "1399",
+    "district_id": "127",
+    "name_uz": "Sina"
+  },
+  {
+    "id": "1400",
+    "district_id": "127",
+    "name_uz": "Tortuvli"
+  },
+  {
+    "id": "1401",
+    "district_id": "127",
+    "name_uz": "Farg'ona"
+  },
+  {
+    "id": "1402",
+    "district_id": "127",
+    "name_uz": "Xayrabot"
+  },
+  {
+    "id": "1403",
+    "district_id": "127",
+    "name_uz": "Xitoyan"
+  },
+  {
+    "id": "1404",
+    "district_id": "127",
+    "name_uz": "Xolchayon"
+  },
+  {
+    "id": "1406",
+    "district_id": "127",
+    "name_uz": "Hazarbog'"
+  },
+  {
+    "id": "1407",
+    "district_id": "127",
+    "name_uz": "Yurchi"
+  },
+  {
+    "id": "1409",
+    "district_id": "127",
+    "name_uz": "Yangi Hazorbog'"
+  },
+  {
+    "id": "1410",
+    "district_id": "127",
+    "name_uz": "Yangibog'"
+  },
+  {
+    "id": "1416",
+    "district_id": "128",
+    "name_uz": "Jarqo'rg'on"
+  },
+  {
+    "id": "1418",
+    "district_id": "128",
+    "name_uz": "Kakaydi"
+  },
+  {
+    "id": "1419",
+    "district_id": "128",
+    "name_uz": "Kafrun"
+  },
+  {
+    "id": "1420",
+    "district_id": "128",
+    "name_uz": "Qoraqursoq"
+  },
+  {
+    "id": "1421",
+    "district_id": "128",
+    "name_uz": "Markaziy Surxon"
+  },
+  {
+    "id": "1422",
+    "district_id": "128",
+    "name_uz": "Minor"
+  },
+  {
+    "id": "1425",
+    "district_id": "128",
+    "name_uz": "Surxon"
+  },
+  {
+    "id": "1426",
+    "district_id": "128",
+    "name_uz": "Chorjo'y"
+  },
+  {
+    "id": "1429",
+    "district_id": "129",
+    "name_uz": "Zarkamar"
+  },
+  {
+    "id": "1430",
+    "district_id": "129",
+    "name_uz": "Istara"
+  },
+  {
+    "id": "1431",
+    "district_id": "129",
+    "name_uz": "Karmaki"
+  },
+  {
+    "id": "1432",
+    "district_id": "129",
+    "name_uz": "Kirshak"
+  },
+  {
+    "id": "1433",
+    "district_id": "129",
+    "name_uz": "Kunchiqish"
+  },
+  {
+    "id": "1434",
+    "district_id": "129",
+    "name_uz": "Qiziriq"
+  },
+  {
+    "id": "1440",
+    "district_id": "129",
+    "name_uz": "Sharq Istara"
+  },
+  {
+    "id": "1443",
+    "district_id": "130",
+    "name_uz": "Azlarsoy"
+  },
+  {
+    "id": "1444",
+    "district_id": "130",
+    "name_uz": "Arslonboyli"
+  },
+  {
+    "id": "1445",
+    "district_id": "130",
+    "name_uz": "Bog'ora"
+  },
+  {
+    "id": "1446",
+    "district_id": "130",
+    "name_uz": "Jaloir"
+  },
+  {
+    "id": "1447",
+    "district_id": "130",
+    "name_uz": "Jaloir Qo'rg'oni"
+  },
+  {
+    "id": "1448",
+    "district_id": "130",
+    "name_uz": "Jiydali"
+  },
+  {
+    "id": "1449",
+    "district_id": "130",
+    "name_uz": "Ketmon"
+  },
+  {
+    "id": "1450",
+    "district_id": "130",
+    "name_uz": "Qarsoqli"
+  },
+  {
+    "id": "1454",
+    "district_id": "130",
+    "name_uz": "Oqjar"
+  },
+  {
+    "id": "1455",
+    "district_id": "130",
+    "name_uz": "Oqqapchig'ay"
+  },
+  {
+    "id": "1456",
+    "district_id": "130",
+    "name_uz": "Oqsoy"
+  },
+  {
+    "id": "1457",
+    "district_id": "130",
+    "name_uz": "Hurriyat"
+  },
+  {
+    "id": "1458",
+    "district_id": "130",
+    "name_uz": "Sheroziy"
+  },
+  {
+    "id": "1459",
+    "district_id": "130",
+    "name_uz": "Elbayon"
+  },
+  {
+    "id": "1460",
+    "district_id": "130",
+    "name_uz": "Elobod"
+  },
+  {
+    "id": "1461",
+    "district_id": "130",
+    "name_uz": "Yuqori Kakaydi"
+  },
+  {
+    "id": "1462",
+    "district_id": "130",
+    "name_uz": "Yangiyer"
+  },
+  {
+    "id": "1463",
+    "district_id": "131",
+    "name_uz": "Baynalmilal"
+  },
+  {
+    "id": "1466",
+    "district_id": "131",
+    "name_uz": "Boldir"
+  },
+  {
+    "id": "1468",
+    "district_id": "131",
+    "name_uz": "Iftixor"
+  },
+  {
+    "id": "1469",
+    "district_id": "131",
+    "name_uz": "Qozoyoqli"
+  },
+  {
+    "id": "1470",
+    "district_id": "131",
+    "name_uz": "Qorakamar"
+  },
+  {
+    "id": "1471",
+    "district_id": "131",
+    "name_uz": "Muzrabot"
+  },
+  {
+    "id": "1473",
+    "district_id": "131",
+    "name_uz": "Obodon"
+  },
+  {
+    "id": "1474",
+    "district_id": "131",
+    "name_uz": "Ozod Vatan"
+  },
+  {
+    "id": "1476",
+    "district_id": "131",
+    "name_uz": "Sarhad"
+  },
+  {
+    "id": "1477",
+    "district_id": "131",
+    "name_uz": "Taskent"
+  },
+  {
+    "id": "1479",
+    "district_id": "131",
+    "name_uz": "Chegarachi"
+  },
+  {
+    "id": "1481",
+    "district_id": "131",
+    "name_uz": "Sho'rob"
+  },
+  {
+    "id": "1482",
+    "district_id": "132",
+    "name_uz": "Botosh"
+  },
+  {
+    "id": "1484",
+    "district_id": "132",
+    "name_uz": "Vaxshivor"
+  },
+  {
+    "id": "1486",
+    "district_id": "132",
+    "name_uz": "Dug'oba"
+  },
+  {
+    "id": "1487",
+    "district_id": "132",
+    "name_uz": "Jobu"
+  },
+  {
+    "id": "1488",
+    "district_id": "132",
+    "name_uz": "Ipoq"
+  },
+  {
+    "id": "1489",
+    "district_id": "132",
+    "name_uz": "Qorliq"
+  },
+  {
+    "id": "1491",
+    "district_id": "132",
+    "name_uz": "Qurama"
+  },
+  {
+    "id": "1492",
+    "district_id": "132",
+    "name_uz": "Lutfiy"
+  },
+  {
+    "id": "1493",
+    "district_id": "132",
+    "name_uz": "Mirshodi"
+  },
+  {
+    "id": "1494",
+    "district_id": "132",
+    "name_uz": "Mormin"
+  },
+  {
+    "id": "1496",
+    "district_id": "132",
+    "name_uz": "Oqarbuloq"
+  },
+  {
+    "id": "1497",
+    "district_id": "132",
+    "name_uz": "Oltinsoy"
+  },
+  {
+    "id": "1498",
+    "district_id": "132",
+    "name_uz": "Uzumzor"
+  },
+  {
+    "id": "1499",
+    "district_id": "132",
+    "name_uz": "Xayrandara"
+  },
+  {
+    "id": "1500",
+    "district_id": "132",
+    "name_uz": "Xo'jasoat"
+  },
+  {
+    "id": "1501",
+    "district_id": "132",
+    "name_uz": "Chep"
+  },
+  {
+    "id": "1502",
+    "district_id": "132",
+    "name_uz": "Shakarqamish"
+  },
+  {
+    "id": "1503",
+    "district_id": "132",
+    "name_uz": "Ekraz"
+  },
+  {
+    "id": "1504",
+    "district_id": "132",
+    "name_uz": "Yangiqurilish"
+  },
+  {
+    "id": "1505",
+    "district_id": "133",
+    "name_uz": "Bog'i iram"
+  },
+  {
+    "id": "1506",
+    "district_id": "133",
+    "name_uz": "Bo'yropo'sht"
+  },
+  {
+    "id": "1507",
+    "district_id": "133",
+    "name_uz": "Buyuk kelajak"
+  },
+  {
+    "id": "1508",
+    "district_id": "133",
+    "name_uz": "Dashnobod"
+  },
+  {
+    "id": "1510",
+    "district_id": "133",
+    "name_uz": "Sangardak"
+  },
+  {
+    "id": "1512",
+    "district_id": "133",
+    "name_uz": "So'fiyon"
+  },
+  {
+    "id": "1513",
+    "district_id": "133",
+    "name_uz": "Toqchiyon"
+  },
+  {
+    "id": "1514",
+    "district_id": "133",
+    "name_uz": "Tortuli"
+  },
+  {
+    "id": "1516",
+    "district_id": "133",
+    "name_uz": "Xufar"
+  },
+  {
+    "id": "1517",
+    "district_id": "133",
+    "name_uz": "Sharg'un"
+  },
+  {
+    "id": "1519",
+    "district_id": "135",
+    "name_uz": "At-Termiziy"
+  },
+  {
+    "id": "1520",
+    "district_id": "135",
+    "name_uz": "Kokildorota"
+  },
+  {
+    "id": "1521",
+    "district_id": "135",
+    "name_uz": "Qizilboy"
+  },
+  {
+    "id": "1522",
+    "district_id": "135",
+    "name_uz": "Limonchi"
+  },
+  {
+    "id": "1526",
+    "district_id": "135",
+    "name_uz": "Pattakesar"
+  },
+  {
+    "id": "1528",
+    "district_id": "135",
+    "name_uz": "Tajribakor"
+  },
+  {
+    "id": "1529",
+    "district_id": "135",
+    "name_uz": "Uchqizil"
+  },
+  {
+    "id": "1533",
+    "district_id": "136",
+    "name_uz": "Bobotog'"
+  },
+  {
+    "id": "1534",
+    "district_id": "136",
+    "name_uz": "Jonchekka"
+  },
+  {
+    "id": "1536",
+    "district_id": "136",
+    "name_uz": "Qarashiq"
+  },
+  {
+    "id": "1537",
+    "district_id": "136",
+    "name_uz": "Malandiyon"
+  },
+  {
+    "id": "1539",
+    "district_id": "136",
+    "name_uz": "Oq Ostona"
+  },
+  {
+    "id": "1540",
+    "district_id": "136",
+    "name_uz": "Telpakchinor"
+  },
+  {
+    "id": "1543",
+    "district_id": "136",
+    "name_uz": "Ulanqul"
+  },
+  {
+    "id": "1544",
+    "district_id": "136",
+    "name_uz": "Fayzova"
+  },
+  {
+    "id": "1545",
+    "district_id": "136",
+    "name_uz": "Xonjiza"
+  },
+  {
+    "id": "1546",
+    "district_id": "136",
+    "name_uz": "Chinor"
+  },
+  {
+    "id": "1547",
+    "district_id": "136",
+    "name_uz": "Yangi kuch"
+  },
+  {
+    "id": "1548",
+    "district_id": "136",
+    "name_uz": "Yangi ro'zg'or"
+  },
+  {
+    "id": "1550",
+    "district_id": "137",
+    "name_uz": "Zarabog'"
+  },
+  {
+    "id": "1551",
+    "district_id": "137",
+    "name_uz": "Kilkon"
+  },
+  {
+    "id": "1552",
+    "district_id": "137",
+    "name_uz": "Ko'hitang"
+  },
+  {
+    "id": "1553",
+    "district_id": "137",
+    "name_uz": "Navbog'"
+  },
+  {
+    "id": "1556",
+    "district_id": "137",
+    "name_uz": "Rabatak"
+  },
+  {
+    "id": "1557",
+    "district_id": "137",
+    "name_uz": "Sariqamish"
+  },
+  {
+    "id": "1559",
+    "district_id": "137",
+    "name_uz": "Seplon"
+  },
+  {
+    "id": "1561",
+    "district_id": "137",
+    "name_uz": "Chinobod"
+  },
+  {
+    "id": "1562",
+    "district_id": "137",
+    "name_uz": "Cho'yinchi"
+  },
+  {
+    "id": "1563",
+    "district_id": "137",
+    "name_uz": "Sherobod"
+  },
+  {
+    "id": "1565",
+    "district_id": "137",
+    "name_uz": "Yangiturmush"
+  },
+  {
+    "id": "1566",
+    "district_id": "138",
+    "name_uz": "Alpomish"
+  },
+  {
+    "id": "1567",
+    "district_id": "138",
+    "name_uz": "Baxtlitepa"
+  },
+  {
+    "id": "1568",
+    "district_id": "138",
+    "name_uz": "G'armaqo'rg'on"
+  },
+  {
+    "id": "1571",
+    "district_id": "138",
+    "name_uz": "Jarqishloq"
+  },
+  {
+    "id": "1572",
+    "district_id": "138",
+    "name_uz": "Joyilma"
+  },
+  {
+    "id": "1573",
+    "district_id": "138",
+    "name_uz": "Karvon"
+  },
+  {
+    "id": "1574",
+    "district_id": "138",
+    "name_uz": "Kattasovur"
+  },
+  {
+    "id": "1575",
+    "district_id": "138",
+    "name_uz": "Qo'ldosh"
+  },
+  {
+    "id": "1576",
+    "district_id": "138",
+    "name_uz": "Qo'shtegirmon"
+  },
+  {
+    "id": "1577",
+    "district_id": "138",
+    "name_uz": "Savur"
+  },
+  {
+    "id": "1579",
+    "district_id": "138",
+    "name_uz": "To'la"
+  },
+  {
+    "id": "1580",
+    "district_id": "138",
+    "name_uz": "Xushchekka"
+  },
+  {
+    "id": "1581",
+    "district_id": "138",
+    "name_uz": "Sho'rchi"
+  },
+  {
+    "id": "1585",
+    "district_id": "138",
+    "name_uz": "Yalti"
+  },
+  {
+    "id": "1587",
+    "district_id": "139",
+    "name_uz": "Bekat"
+  },
+  {
+    "id": "1588",
+    "district_id": "139",
+    "name_uz": "Boyovut"
+  },
+  {
+    "id": "1590",
+    "district_id": "139",
+    "name_uz": "Buyuk yurt"
+  },
+  {
+    "id": "1592",
+    "district_id": "139",
+    "name_uz": "Darvazakir"
+  },
+  {
+    "id": "1596",
+    "district_id": "139",
+    "name_uz": "Laylakko'l"
+  },
+  {
+    "id": "1601",
+    "district_id": "139",
+    "name_uz": "Tabarruk"
+  },
+  {
+    "id": "1603",
+    "district_id": "141",
+    "name_uz": "Bahor"
+  },
+  {
+    "id": "1605",
+    "district_id": "141",
+    "name_uz": "Ulug'obod"
+  },
+  {
+    "id": "1610",
+    "district_id": "140",
+    "name_uz": "Kunchi"
+  },
+  {
+    "id": "1611",
+    "district_id": "140",
+    "name_uz": "Oltin O'rda"
+  },
+  {
+    "id": "1612",
+    "district_id": "140",
+    "name_uz": "Oltintepa"
+  },
+  {
+    "id": "1613",
+    "district_id": "140",
+    "name_uz": "Soyibobod"
+  },
+  {
+    "id": "1614",
+    "district_id": "140",
+    "name_uz": "Soxilobod"
+  },
+  {
+    "id": "1616",
+    "district_id": "140",
+    "name_uz": "Xalqako'l"
+  },
+  {
+    "id": "1618",
+    "district_id": "140",
+    "name_uz": "Hulkar"
+  },
+  {
+    "id": "1622",
+    "district_id": "142",
+    "name_uz": "Yo'ldoshobod"
+  },
+  {
+    "id": "1624",
+    "district_id": "142",
+    "name_uz": "Mirzacho'l"
+  },
+  {
+    "id": "1628",
+    "district_id": "142",
+    "name_uz": "Oqoltin"
+  },
+  {
+    "id": "1632",
+    "district_id": "143",
+    "name_uz": "Ahillik"
+  },
+  {
+    "id": "1636",
+    "district_id": "143",
+    "name_uz": "Shodlik"
+  },
+  {
+    "id": "1639",
+    "district_id": "144",
+    "name_uz": "Ittifak"
+  },
+  {
+    "id": "1641",
+    "district_id": "144",
+    "name_uz": "Paxtakon"
+  },
+  {
+    "id": "1642",
+    "district_id": "144",
+    "name_uz": "Sayxun"
+  },
+  {
+    "id": "1643",
+    "district_id": "144",
+    "name_uz": "Sohil"
+  },
+  {
+    "id": "1645",
+    "district_id": "144",
+    "name_uz": "Sho'ro'zak"
+  },
+  {
+    "id": "1652",
+    "district_id": "145",
+    "name_uz": "Cho'lQuvar"
+  },
+  {
+    "id": "1656",
+    "district_id": "146",
+    "name_uz": "J.Mamanov"
+  },
+  {
+    "id": "1658",
+    "district_id": "146",
+    "name_uz": "Quyosh"
+  },
+  {
+    "id": "1659",
+    "district_id": "146",
+    "name_uz": "Malik"
+  },
+  {
+    "id": "1668",
+    "district_id": "146",
+    "name_uz": "Cho'lto'qay"
+  },
+  {
+    "id": "1669",
+    "district_id": "146",
+    "name_uz": "Sholikor"
+  },
+  {
+    "id": "1680",
+    "district_id": "147",
+    "name_uz": "Xovotog'"
+  },
+  {
+    "id": "1681",
+    "district_id": "147",
+    "name_uz": "Xusnobod"
+  },
+  {
+    "id": "1684",
+    "district_id": "150",
+    "name_uz": "Krasnogorsk"
+  },
+  {
+    "id": "1689",
+    "district_id": "151",
+    "name_uz": "Bobur"
+  },
+  {
+    "id": "1694",
+    "district_id": "151",
+    "name_uz": "Zafar"
+  },
+  {
+    "id": "1695",
+    "district_id": "151",
+    "name_uz": "Ko'rkam"
+  },
+  {
+    "id": "1696",
+    "district_id": "151",
+    "name_uz": "Qiyot"
+  },
+  {
+    "id": "1699",
+    "district_id": "151",
+    "name_uz": "Mo'yinqum"
+  },
+  {
+    "id": "1700",
+    "district_id": "151",
+    "name_uz": "Xos"
+  },
+  {
+    "id": "1701",
+    "district_id": "151",
+    "name_uz": "Chanoq"
+  },
+  {
+    "id": "1704",
+    "district_id": "153",
+    "name_uz": "Bo'ka"
+  },
+  {
+    "id": "1706",
+    "district_id": "153",
+    "name_uz": "Ko'korol"
+  },
+  {
+    "id": "1707",
+    "district_id": "153",
+    "name_uz": "Qoraqo'yli"
+  },
+  {
+    "id": "1712",
+    "district_id": "153",
+    "name_uz": "Chig'atoy"
+  },
+  {
+    "id": "1713",
+    "district_id": "154",
+    "name_uz": "Azadbash"
+  },
+  {
+    "id": "1715",
+    "district_id": "154",
+    "name_uz": "Burchmullo"
+  },
+  {
+    "id": "1716",
+    "district_id": "154",
+    "name_uz": "Bo'stonliq"
+  },
+  {
+    "id": "1717",
+    "district_id": "154",
+    "name_uz": "G'azalkent"
+  },
+  {
+    "id": "1719",
+    "district_id": "154",
+    "name_uz": "Dumaloq"
+  },
+  {
+    "id": "1720",
+    "district_id": "154",
+    "name_uz": "Iskandar"
+  },
+  {
+    "id": "1721",
+    "district_id": "154",
+    "name_uz": "Qoramanas"
+  },
+  {
+    "id": "1722",
+    "district_id": "154",
+    "name_uz": "Qoronqul"
+  },
+  {
+    "id": "1723",
+    "district_id": "154",
+    "name_uz": "Qurbonov nomli"
+  },
+  {
+    "id": "1724",
+    "district_id": "154",
+    "name_uz": "Qo'shqo'rg'on"
+  },
+  {
+    "id": "1727",
+    "district_id": "154",
+    "name_uz": "Pargos"
+  },
+  {
+    "id": "1729",
+    "district_id": "154",
+    "name_uz": "Pskom"
+  },
+  {
+    "id": "1730",
+    "district_id": "154",
+    "name_uz": "Sari qanli"
+  },
+  {
+    "id": "1731",
+    "district_id": "154",
+    "name_uz": "Sijjak"
+  },
+  {
+    "id": "1732",
+    "district_id": "154",
+    "name_uz": "Sobir Raximov"
+  },
+  {
+    "id": "1733",
+    "district_id": "154",
+    "name_uz": "Soyliq"
+  },
+  {
+    "id": "1735",
+    "district_id": "154",
+    "name_uz": "Talpin"
+  },
+  {
+    "id": "1736",
+    "district_id": "154",
+    "name_uz": "Tulabe"
+  },
+  {
+    "id": "1737",
+    "district_id": "154",
+    "name_uz": "Uenqulsoy"
+  },
+  {
+    "id": "1738",
+    "district_id": "154",
+    "name_uz": "Xondoyliq"
+  },
+  {
+    "id": "1739",
+    "district_id": "154",
+    "name_uz": "Xo'jakent"
+  },
+  {
+    "id": "1741",
+    "district_id": "154",
+    "name_uz": "Xumsan"
+  },
+  {
+    "id": "1743",
+    "district_id": "154",
+    "name_uz": "Ho'ja"
+  },
+  {
+    "id": "1744",
+    "district_id": "154",
+    "name_uz": "Chimboyliq"
+  },
+  {
+    "id": "1745",
+    "district_id": "154",
+    "name_uz": "Chimgan"
+  },
+  {
+    "id": "1747",
+    "district_id": "154",
+    "name_uz": "Chorvoq"
+  },
+  {
+    "id": "1748",
+    "district_id": "154",
+    "name_uz": "Yangi ovul"
+  },
+  {
+    "id": "1749",
+    "district_id": "155",
+    "name_uz": "Axmad Yassaviy"
+  },
+  {
+    "id": "1750",
+    "district_id": "155",
+    "name_uz": "Boz-su"
+  },
+  {
+    "id": "1751",
+    "district_id": "155",
+    "name_uz": "Daliguzar"
+  },
+  {
+    "id": "1752",
+    "district_id": "155",
+    "name_uz": "Zangiota"
+  },
+  {
+    "id": "1755",
+    "district_id": "155",
+    "name_uz": "Quyoshli"
+  },
+  {
+    "id": "1756",
+    "district_id": "155",
+    "name_uz": "Nazarbek"
+  },
+  {
+    "id": "1758",
+    "district_id": "155",
+    "name_uz": "Pastdarxon"
+  },
+  {
+    "id": "1759",
+    "district_id": "155",
+    "name_uz": "Tarnov"
+  },
+  {
+    "id": "1763",
+    "district_id": "155",
+    "name_uz": "O'rtaovul"
+  },
+  {
+    "id": "1765",
+    "district_id": "155",
+    "name_uz": "Honobod"
+  },
+  {
+    "id": "1766",
+    "district_id": "155",
+    "name_uz": "Chig'atoy-Oqtepa"
+  },
+  {
+    "id": "1769",
+    "district_id": "155",
+    "name_uz": "Eshonguzar"
+  },
+  {
+    "id": "1770",
+    "district_id": "156",
+    "name_uz": "Alisherobod"
+  },
+  {
+    "id": "1771",
+    "district_id": "156",
+    "name_uz": "Argin"
+  },
+  {
+    "id": "1772",
+    "district_id": "156",
+    "name_uz": "Baytqo'rg'on"
+  },
+  {
+    "id": "1773",
+    "district_id": "156",
+    "name_uz": "Geofizika"
+  },
+  {
+    "id": "1776",
+    "district_id": "156",
+    "name_uz": "Yon-ariq"
+  },
+  {
+    "id": "1779",
+    "district_id": "156",
+    "name_uz": "Ko'prik boshi"
+  },
+  {
+    "id": "1780",
+    "district_id": "156",
+    "name_uz": "Qibray"
+  },
+  {
+    "id": "1785",
+    "district_id": "156",
+    "name_uz": "Oq-qovoq"
+  },
+  {
+    "id": "1786",
+    "district_id": "156",
+    "name_uz": "Salar"
+  },
+  {
+    "id": "1787",
+    "district_id": "156",
+    "name_uz": "TaraqQiyot"
+  },
+  {
+    "id": "1788",
+    "district_id": "156",
+    "name_uz": "Tuzel"
+  },
+  {
+    "id": "1789",
+    "district_id": "156",
+    "name_uz": "Uymaut"
+  },
+  {
+    "id": "1790",
+    "district_id": "156",
+    "name_uz": "Unqo'rg'on"
+  },
+  {
+    "id": "1791",
+    "district_id": "156",
+    "name_uz": "Unqo'rg'on-1"
+  },
+  {
+    "id": "1792",
+    "district_id": "156",
+    "name_uz": "O'tkir"
+  },
+  {
+    "id": "1793",
+    "district_id": "156",
+    "name_uz": "X.Amirov"
+  },
+  {
+    "id": "1796",
+    "district_id": "157",
+    "name_uz": "Gul"
+  },
+  {
+    "id": "1798",
+    "district_id": "157",
+    "name_uz": "Ketmontepa"
+  },
+  {
+    "id": "1801",
+    "district_id": "157",
+    "name_uz": "Maydontol"
+  },
+  {
+    "id": "1802",
+    "district_id": "157",
+    "name_uz": "Ma?naviyat"
+  },
+  {
+    "id": "1803",
+    "district_id": "157",
+    "name_uz": "Ma?rifat"
+  },
+  {
+    "id": "1806",
+    "district_id": "157",
+    "name_uz": "Toshovul"
+  },
+  {
+    "id": "1808",
+    "district_id": "158",
+    "name_uz": "Achchi"
+  },
+  {
+    "id": "1815",
+    "district_id": "158",
+    "name_uz": "Olimkent"
+  },
+  {
+    "id": "1816",
+    "district_id": "158",
+    "name_uz": "Toshto'g'on"
+  },
+  {
+    "id": "1817",
+    "district_id": "158",
+    "name_uz": "Hamzaobod"
+  },
+  {
+    "id": "1818",
+    "district_id": "158",
+    "name_uz": "Shoxruxiya"
+  },
+  {
+    "id": "1819",
+    "district_id": "158",
+    "name_uz": "Eltamg'ali"
+  },
+  {
+    "id": "1820",
+    "district_id": "158",
+    "name_uz": "Erkinlik"
+  },
+  {
+    "id": "1824",
+    "district_id": "160",
+    "name_uz": "Qora xitoy"
+  },
+  {
+    "id": "1825",
+    "district_id": "160",
+    "name_uz": "Qora Xitoy"
+  },
+  {
+    "id": "1827",
+    "district_id": "160",
+    "name_uz": "Ozodlik"
+  },
+  {
+    "id": "1828",
+    "district_id": "160",
+    "name_uz": "Susam"
+  },
+  {
+    "id": "1829",
+    "district_id": "160",
+    "name_uz": "Telov"
+  },
+  {
+    "id": "1831",
+    "district_id": "160",
+    "name_uz": "Uvaq"
+  },
+  {
+    "id": "1832",
+    "district_id": "160",
+    "name_uz": "Eyvalek"
+  },
+  {
+    "id": "1833",
+    "district_id": "161",
+    "name_uz": "Boshqizilsoy"
+  },
+  {
+    "id": "1839",
+    "district_id": "161",
+    "name_uz": "Nomdanak"
+  },
+  {
+    "id": "1840",
+    "district_id": "161",
+    "name_uz": "Parkent"
+  },
+  {
+    "id": "1842",
+    "district_id": "161",
+    "name_uz": "So'qoq"
+  },
+  {
+    "id": "1843",
+    "district_id": "161",
+    "name_uz": "Xisarak"
+  },
+  {
+    "id": "1844",
+    "district_id": "161",
+    "name_uz": "Changi"
+  },
+  {
+    "id": "1846",
+    "district_id": "162",
+    "name_uz": "Dungqo'rg'on"
+  },
+  {
+    "id": "1847",
+    "district_id": "162",
+    "name_uz": "Kelovchi"
+  },
+  {
+    "id": "1848",
+    "district_id": "162",
+    "name_uz": "Koriz"
+  },
+  {
+    "id": "1849",
+    "district_id": "162",
+    "name_uz": "Muratali"
+  },
+  {
+    "id": "1850",
+    "district_id": "162",
+    "name_uz": "Murotali"
+  },
+  {
+    "id": "1851",
+    "district_id": "162",
+    "name_uz": "Oq tepa"
+  },
+  {
+    "id": "1852",
+    "district_id": "162",
+    "name_uz": "Pskent"
+  },
+  {
+    "id": "1853",
+    "district_id": "162",
+    "name_uz": "Said"
+  },
+  {
+    "id": "1856",
+    "district_id": "215",
+    "name_uz": "Z.Jalilov"
+  },
+  {
+    "id": "1857",
+    "district_id": "215",
+    "name_uz": "Keles"
+  },
+  {
+    "id": "1858",
+    "district_id": "215",
+    "name_uz": "Kensoy"
+  },
+  {
+    "id": "1859",
+    "district_id": "215",
+    "name_uz": "Ko'k saroy"
+  },
+  {
+    "id": "1860",
+    "district_id": "215",
+    "name_uz": "Ko'k Saroy"
+  },
+  {
+    "id": "1861",
+    "district_id": "215",
+    "name_uz": "Ko'k-terak"
+  },
+  {
+    "id": "1862",
+    "district_id": "215",
+    "name_uz": "Qashqarlik"
+  },
+  {
+    "id": "1863",
+    "district_id": "215",
+    "name_uz": "Qizg'aldoq"
+  },
+  {
+    "id": "1864",
+    "district_id": "215",
+    "name_uz": "M.Fozilov"
+  },
+  {
+    "id": "1865",
+    "district_id": "215",
+    "name_uz": "Masalboy"
+  },
+  {
+    "id": "1866",
+    "district_id": "215",
+    "name_uz": "Sabzavot"
+  },
+  {
+    "id": "1867",
+    "district_id": "215",
+    "name_uz": "Hasanboy"
+  },
+  {
+    "id": "1871",
+    "district_id": "215",
+    "name_uz": "Chuvalachi"
+  },
+  {
+    "id": "1872",
+    "district_id": "215",
+    "name_uz": "Shamsiobod"
+  },
+  {
+    "id": "1873",
+    "district_id": "215",
+    "name_uz": "Yunusobod"
+  },
+  {
+    "id": "1874",
+    "district_id": "163",
+    "name_uz": "Angor"
+  },
+  {
+    "id": "1876",
+    "district_id": "163",
+    "name_uz": "Yo'ng'ichqala"
+  },
+  {
+    "id": "1877",
+    "district_id": "163",
+    "name_uz": "Kuchluk"
+  },
+  {
+    "id": "1880",
+    "district_id": "163",
+    "name_uz": "Qumovul"
+  },
+  {
+    "id": "1882",
+    "district_id": "163",
+    "name_uz": "Oq ota"
+  },
+  {
+    "id": "1885",
+    "district_id": "163",
+    "name_uz": "Tuyabo'g'iz"
+  },
+  {
+    "id": "1887",
+    "district_id": "163",
+    "name_uz": "O'rtasaroy"
+  },
+  {
+    "id": "1891",
+    "district_id": "164",
+    "name_uz": "A.Temur"
+  },
+  {
+    "id": "1893",
+    "district_id": "164",
+    "name_uz": "Gulzorobod"
+  },
+  {
+    "id": "1895",
+    "district_id": "164",
+    "name_uz": "Yollama"
+  },
+  {
+    "id": "1896",
+    "district_id": "164",
+    "name_uz": "Isloxat"
+  },
+  {
+    "id": "1897",
+    "district_id": "164",
+    "name_uz": "Kir"
+  },
+  {
+    "id": "1900",
+    "district_id": "164",
+    "name_uz": "Paxta"
+  },
+  {
+    "id": "1903",
+    "district_id": "164",
+    "name_uz": "Chinoz"
+  },
+  {
+    "id": "1906",
+    "district_id": "164",
+    "name_uz": "Eski Toshkent"
+  },
+  {
+    "id": "1907",
+    "district_id": "164",
+    "name_uz": "Eshonobod"
+  },
+  {
+    "id": "1908",
+    "district_id": "164",
+    "name_uz": "Yangi Chinoz"
+  },
+  {
+    "id": "1909",
+    "district_id": "166",
+    "name_uz": "Arganchi"
+  },
+  {
+    "id": "1910",
+    "district_id": "166",
+    "name_uz": "Bordonko'l"
+  },
+  {
+    "id": "1911",
+    "district_id": "166",
+    "name_uz": "Jambul"
+  },
+  {
+    "id": "1913",
+    "district_id": "166",
+    "name_uz": "Mirobod"
+  },
+  {
+    "id": "1915",
+    "district_id": "166",
+    "name_uz": "Oqovul"
+  },
+  {
+    "id": "1916",
+    "district_id": "166",
+    "name_uz": "Sakson ota"
+  },
+  {
+    "id": "1917",
+    "district_id": "166",
+    "name_uz": "Surnkent"
+  },
+  {
+    "id": "1919",
+    "district_id": "166",
+    "name_uz": "Xitoy Tepa"
+  },
+  {
+    "id": "1921",
+    "district_id": "167",
+    "name_uz": "Bozsu"
+  },
+  {
+    "id": "1923",
+    "district_id": "167",
+    "name_uz": "Yo'g'ontepa"
+  },
+  {
+    "id": "1924",
+    "district_id": "167",
+    "name_uz": "Kirsadoq"
+  },
+  {
+    "id": "1925",
+    "district_id": "167",
+    "name_uz": "Qovunchi"
+  },
+  {
+    "id": "1926",
+    "district_id": "167",
+    "name_uz": "Qo'sh yog'och"
+  },
+  {
+    "id": "1928",
+    "district_id": "167",
+    "name_uz": "Niyozbosh"
+  },
+  {
+    "id": "1929",
+    "district_id": "167",
+    "name_uz": "Nov"
+  },
+  {
+    "id": "1930",
+    "district_id": "167",
+    "name_uz": "Xonqo'rg'on"
+  },
+  {
+    "id": "1931",
+    "district_id": "167",
+    "name_uz": "Halqobod"
+  },
+  {
+    "id": "1932",
+    "district_id": "167",
+    "name_uz": "Sho'ralisoy"
+  },
+  {
+    "id": "1933",
+    "district_id": "167",
+    "name_uz": "Eski Qovunchi"
+  },
+  {
+    "id": "1934",
+    "district_id": "168",
+    "name_uz": "Beshariq"
+  },
+  {
+    "id": "1935",
+    "district_id": "168",
+    "name_uz": "Nafosat"
+  },
+  {
+    "id": "1936",
+    "district_id": "168",
+    "name_uz": "Zarqaynar"
+  },
+  {
+    "id": "1937",
+    "district_id": "168",
+    "name_uz": "Kapayangi"
+  },
+  {
+    "id": "1939",
+    "district_id": "168",
+    "name_uz": "Oqtovuq"
+  },
+  {
+    "id": "1940",
+    "district_id": "168",
+    "name_uz": "Rapqon"
+  },
+  {
+    "id": "1941",
+    "district_id": "168",
+    "name_uz": "Tovul"
+  },
+  {
+    "id": "1944",
+    "district_id": "168",
+    "name_uz": "Manguobod"
+  },
+  {
+    "id": "1945",
+    "district_id": "168",
+    "name_uz": "Beshariq tumanining qishloq fuqarolar yig'inlari"
+  },
+  {
+    "id": "1946",
+    "district_id": "168",
+    "name_uz": "Andarxon"
+  },
+  {
+    "id": "1948",
+    "district_id": "168",
+    "name_uz": "Vatan"
+  },
+  {
+    "id": "1949",
+    "district_id": "168",
+    "name_uz": "Qorajiyda"
+  },
+  {
+    "id": "1950",
+    "district_id": "168",
+    "name_uz": "Qashqar"
+  },
+  {
+    "id": "1951",
+    "district_id": "168",
+    "name_uz": "Beshsari"
+  },
+  {
+    "id": "1955",
+    "district_id": "170",
+    "name_uz": "Ibrat"
+  },
+  {
+    "id": "1956",
+    "district_id": "170",
+    "name_uz": "Yuqori Bachqir"
+  },
+  {
+    "id": "1957",
+    "district_id": "170",
+    "name_uz": "Quyi Bachqir"
+  },
+  {
+    "id": "1959",
+    "district_id": "170",
+    "name_uz": "Buvayda"
+  },
+  {
+    "id": "1960",
+    "district_id": "170",
+    "name_uz": "Zarbuloq"
+  },
+  {
+    "id": "1961",
+    "district_id": "170",
+    "name_uz": "Qum"
+  },
+  {
+    "id": "1962",
+    "district_id": "170",
+    "name_uz": "Yuqori Nayman"
+  },
+  {
+    "id": "1964",
+    "district_id": "170",
+    "name_uz": "Quyi Urganji"
+  },
+  {
+    "id": "1965",
+    "district_id": "169",
+    "name_uz": "Bog'dod"
+  },
+  {
+    "id": "1966",
+    "district_id": "169",
+    "name_uz": "Amirobod"
+  },
+  {
+    "id": "1967",
+    "district_id": "169",
+    "name_uz": "Maylavoy"
+  },
+  {
+    "id": "1970",
+    "district_id": "169",
+    "name_uz": "Bordon"
+  },
+  {
+    "id": "1971",
+    "district_id": "169",
+    "name_uz": "Do'rmoncha"
+  },
+  {
+    "id": "1972",
+    "district_id": "169",
+    "name_uz": "Irgali"
+  },
+  {
+    "id": "1973",
+    "district_id": "169",
+    "name_uz": "Qaroqchitol"
+  },
+  {
+    "id": "1974",
+    "district_id": "169",
+    "name_uz": "Kaxat"
+  },
+  {
+    "id": "1975",
+    "district_id": "169",
+    "name_uz": "Qirqboldi"
+  },
+  {
+    "id": "1976",
+    "district_id": "169",
+    "name_uz": "Konizar"
+  },
+  {
+    "id": "1978",
+    "district_id": "169",
+    "name_uz": "Matqulobod"
+  },
+  {
+    "id": "1979",
+    "district_id": "169",
+    "name_uz": "Mirzaobod"
+  },
+  {
+    "id": "1980",
+    "district_id": "169",
+    "name_uz": "Samandarak"
+  },
+  {
+    "id": "1982",
+    "district_id": "169",
+    "name_uz": "O'ltarma"
+  },
+  {
+    "id": "1984",
+    "district_id": "169",
+    "name_uz": "Chekmirzaobod"
+  },
+  {
+    "id": "1985",
+    "district_id": "169",
+    "name_uz": "Churindi"
+  },
+  {
+    "id": "1986",
+    "district_id": "176",
+    "name_uz": "Boltako'l"
+  },
+  {
+    "id": "1987",
+    "district_id": "176",
+    "name_uz": "Gishtmon"
+  },
+  {
+    "id": "1989",
+    "district_id": "176",
+    "name_uz": "Katta Beshkapa"
+  },
+  {
+    "id": "1990",
+    "district_id": "176",
+    "name_uz": "Qizil ariq"
+  },
+  {
+    "id": "1992",
+    "district_id": "176",
+    "name_uz": "Qorakaltak"
+  },
+  {
+    "id": "1993",
+    "district_id": "176",
+    "name_uz": "Qumtepa"
+  },
+  {
+    "id": "1994",
+    "district_id": "176",
+    "name_uz": "Quyi Oqtepa"
+  },
+  {
+    "id": "1995",
+    "district_id": "176",
+    "name_uz": "Sarmozor"
+  },
+  {
+    "id": "1996",
+    "district_id": "176",
+    "name_uz": "Xotinariq"
+  },
+  {
+    "id": "1997",
+    "district_id": "176",
+    "name_uz": "Shahartepa"
+  },
+  {
+    "id": "2000",
+    "district_id": "178",
+    "name_uz": "Oltiariq"
+  },
+  {
+    "id": "2002",
+    "district_id": "178",
+    "name_uz": "Azimobod"
+  },
+  {
+    "id": "2003",
+    "district_id": "178",
+    "name_uz": "Bo'rbaliq"
+  },
+  {
+    "id": "2004",
+    "district_id": "178",
+    "name_uz": "Djurek"
+  },
+  {
+    "id": "2005",
+    "district_id": "178",
+    "name_uz": "Zilxa"
+  },
+  {
+    "id": "2006",
+    "district_id": "178",
+    "name_uz": "Katput"
+  },
+  {
+    "id": "2008",
+    "district_id": "178",
+    "name_uz": "Povulg'on"
+  },
+  {
+    "id": "2009",
+    "district_id": "178",
+    "name_uz": "Poloson"
+  },
+  {
+    "id": "2011",
+    "district_id": "178",
+    "name_uz": "Eskiarab"
+  },
+  {
+    "id": "2012",
+    "district_id": "178",
+    "name_uz": "Yangiarab"
+  },
+  {
+    "id": "2014",
+    "district_id": "178",
+    "name_uz": "Yangiyo'l tumanining qishloq fuqarolar yig'inlari"
+  },
+  {
+    "id": "2024",
+    "district_id": "178",
+    "name_uz": "Toshqo'rg'on"
+  },
+  {
+    "id": "2025",
+    "district_id": "178",
+    "name_uz": "Kapchugay"
+  },
+  {
+    "id": "2031",
+    "district_id": "173",
+    "name_uz": "Quva"
+  },
+  {
+    "id": "2032",
+    "district_id": "173",
+    "name_uz": "Sanoatchilar"
+  },
+  {
+    "id": "2035",
+    "district_id": "173",
+    "name_uz": "Jalayer"
+  },
+  {
+    "id": "2036",
+    "district_id": "173",
+    "name_uz": "Qayirma"
+  },
+  {
+    "id": "2037",
+    "district_id": "173",
+    "name_uz": "Qaqir"
+  },
+  {
+    "id": "2038",
+    "district_id": "173",
+    "name_uz": "Qandabuloq"
+  },
+  {
+    "id": "2039",
+    "district_id": "173",
+    "name_uz": "Qorashox"
+  },
+  {
+    "id": "2041",
+    "district_id": "173",
+    "name_uz": "Oltinariq"
+  },
+  {
+    "id": "2042",
+    "district_id": "173",
+    "name_uz": "Pastki Xo'ja Xasan"
+  },
+  {
+    "id": "2043",
+    "district_id": "173",
+    "name_uz": "Tolmozor"
+  },
+  {
+    "id": "2044",
+    "district_id": "173",
+    "name_uz": "Turk"
+  },
+  {
+    "id": "2045",
+    "district_id": "173",
+    "name_uz": "O'zbek"
+  },
+  {
+    "id": "2046",
+    "district_id": "173",
+    "name_uz": "Yuziya"
+  },
+  {
+    "id": "2047",
+    "district_id": "182",
+    "name_uz": "Uchko'prik"
+  },
+  {
+    "id": "2048",
+    "district_id": "182",
+    "name_uz": "Begobod"
+  },
+  {
+    "id": "2049",
+    "district_id": "182",
+    "name_uz": "G'ijdan"
+  },
+  {
+    "id": "2050",
+    "district_id": "182",
+    "name_uz": "Katta Qashqar"
+  },
+  {
+    "id": "2051",
+    "district_id": "182",
+    "name_uz": "Qumariqobod"
+  },
+  {
+    "id": "2052",
+    "district_id": "182",
+    "name_uz": "Bog'ibo'ston"
+  },
+  {
+    "id": "2053",
+    "district_id": "182",
+    "name_uz": "Mirzaxo'ja"
+  },
+  {
+    "id": "2054",
+    "district_id": "182",
+    "name_uz": "Palaxon"
+  },
+  {
+    "id": "2055",
+    "district_id": "182",
+    "name_uz": "Sobirjon"
+  },
+  {
+    "id": "2056",
+    "district_id": "182",
+    "name_uz": "Turg'oq"
+  },
+  {
+    "id": "2058",
+    "district_id": "179",
+    "name_uz": "Rishton"
+  },
+  {
+    "id": "2059",
+    "district_id": "179",
+    "name_uz": "Avazboy"
+  },
+  {
+    "id": "2060",
+    "district_id": "179",
+    "name_uz": "Beshkapa"
+  },
+  {
+    "id": "2061",
+    "district_id": "179",
+    "name_uz": "Bujay"
+  },
+  {
+    "id": "2063",
+    "district_id": "179",
+    "name_uz": "Do'tir"
+  },
+  {
+    "id": "2065",
+    "district_id": "179",
+    "name_uz": "Zoxidon"
+  },
+  {
+    "id": "2067",
+    "district_id": "179",
+    "name_uz": "Oq-yer"
+  },
+  {
+    "id": "2068",
+    "district_id": "179",
+    "name_uz": "Pandigon"
+  },
+  {
+    "id": "2070",
+    "district_id": "179",
+    "name_uz": "O'yrat"
+  },
+  {
+    "id": "2071",
+    "district_id": "179",
+    "name_uz": "Xurramobod"
+  },
+  {
+    "id": "2072",
+    "district_id": "180",
+    "name_uz": "Ravon"
+  },
+  {
+    "id": "2073",
+    "district_id": "180",
+    "name_uz": "Qal'a"
+  },
+  {
+    "id": "2074",
+    "district_id": "180",
+    "name_uz": "Sarikanda"
+  },
+  {
+    "id": "2075",
+    "district_id": "180",
+    "name_uz": "So'x"
+  },
+  {
+    "id": "2076",
+    "district_id": "180",
+    "name_uz": "Tul"
+  },
+  {
+    "id": "2077",
+    "district_id": "180",
+    "name_uz": "Hushyor"
+  },
+  {
+    "id": "2078",
+    "district_id": "180",
+    "name_uz": "Tarovatli"
+  },
+  {
+    "id": "2080",
+    "district_id": "181",
+    "name_uz": "Arabmozor"
+  },
+  {
+    "id": "2081",
+    "district_id": "181",
+    "name_uz": "Axshak"
+  },
+  {
+    "id": "2082",
+    "district_id": "181",
+    "name_uz": "Varzak"
+  },
+  {
+    "id": "2084",
+    "district_id": "181",
+    "name_uz": "Qumariq"
+  },
+  {
+    "id": "2085",
+    "district_id": "181",
+    "name_uz": "Quyi Nayman"
+  },
+  {
+    "id": "2086",
+    "district_id": "181",
+    "name_uz": "Sadda"
+  },
+  {
+    "id": "2087",
+    "district_id": "181",
+    "name_uz": "Turvat"
+  },
+  {
+    "id": "2089",
+    "district_id": "183",
+    "name_uz": "Yaypan"
+  },
+  {
+    "id": "2090",
+    "district_id": "183",
+    "name_uz": "Sho'rsuv"
+  },
+  {
+    "id": "2091",
+    "district_id": "183",
+    "name_uz": "Avg'on"
+  },
+  {
+    "id": "2092",
+    "district_id": "183",
+    "name_uz": "Dahana Qaqir"
+  },
+  {
+    "id": "2093",
+    "district_id": "183",
+    "name_uz": "Islom"
+  },
+  {
+    "id": "2094",
+    "district_id": "183",
+    "name_uz": "Katta Tagob"
+  },
+  {
+    "id": "2095",
+    "district_id": "183",
+    "name_uz": "Qizil Qaqir"
+  },
+  {
+    "id": "2096",
+    "district_id": "183",
+    "name_uz": "Kichik Tagob"
+  },
+  {
+    "id": "2098",
+    "district_id": "183",
+    "name_uz": "Kudash"
+  },
+  {
+    "id": "2099",
+    "district_id": "183",
+    "name_uz": "Kul elash"
+  },
+  {
+    "id": "2100",
+    "district_id": "183",
+    "name_uz": "Qulibek"
+  },
+  {
+    "id": "2101",
+    "district_id": "183",
+    "name_uz": "Qumbosti"
+  },
+  {
+    "id": "2102",
+    "district_id": "183",
+    "name_uz": "Qo'shqo'noq"
+  },
+  {
+    "id": "2104",
+    "district_id": "183",
+    "name_uz": "Nursux"
+  },
+  {
+    "id": "2105",
+    "district_id": "183",
+    "name_uz": "Ovchi"
+  },
+  {
+    "id": "2106",
+    "district_id": "183",
+    "name_uz": "Oyimcha Qaqir"
+  },
+  {
+    "id": "2108",
+    "district_id": "183",
+    "name_uz": "Oxta Tagob"
+  },
+  {
+    "id": "2109",
+    "district_id": "183",
+    "name_uz": "O'qchi Dasht"
+  },
+  {
+    "id": "2110",
+    "district_id": "183",
+    "name_uz": "O'qchi Rajabgardi"
+  },
+  {
+    "id": "2112",
+    "district_id": "184",
+    "name_uz": "Chimyon ( mavjud)"
+  },
+  {
+    "id": "2113",
+    "district_id": "184",
+    "name_uz": "Avval"
+  },
+  {
+    "id": "2114",
+    "district_id": "184",
+    "name_uz": "Archa"
+  },
+  {
+    "id": "2115",
+    "district_id": "184",
+    "name_uz": "Vodil"
+  },
+  {
+    "id": "2116",
+    "district_id": "184",
+    "name_uz": "Yuqori Vodil"
+  },
+  {
+    "id": "2117",
+    "district_id": "184",
+    "name_uz": "Damko'l"
+  },
+  {
+    "id": "2118",
+    "district_id": "184",
+    "name_uz": "Yoshlarobod"
+  },
+  {
+    "id": "2121",
+    "district_id": "184",
+    "name_uz": "Log'on"
+  },
+  {
+    "id": "2122",
+    "district_id": "184",
+    "name_uz": "Mindon"
+  },
+  {
+    "id": "2123",
+    "district_id": "184",
+    "name_uz": "Novkent"
+  },
+  {
+    "id": "2124",
+    "district_id": "184",
+    "name_uz": "Yuqori Oqtepa"
+  },
+  {
+    "id": "2125",
+    "district_id": "184",
+    "name_uz": "Parvoz"
+  },
+  {
+    "id": "2126",
+    "district_id": "184",
+    "name_uz": "Yuqori Soybo'yi"
+  },
+  {
+    "id": "2128",
+    "district_id": "184",
+    "name_uz": "Xonqiz"
+  },
+  {
+    "id": "2129",
+    "district_id": "184",
+    "name_uz": "Xo'roba"
+  },
+  {
+    "id": "2130",
+    "district_id": "184",
+    "name_uz": "Neftchilar"
+  },
+  {
+    "id": "2131",
+    "district_id": "184",
+    "name_uz": "Shoximardonobod"
+  },
+  {
+    "id": "2132",
+    "district_id": "184",
+    "name_uz": "Yuqori Mindon"
+  },
+  {
+    "id": "2133",
+    "district_id": "171",
+    "name_uz": "Dang'ara"
+  },
+  {
+    "id": "2134",
+    "district_id": "171",
+    "name_uz": "Doimobod"
+  },
+  {
+    "id": "2135",
+    "district_id": "171",
+    "name_uz": "Katta Ganjiravon"
+  },
+  {
+    "id": "2136",
+    "district_id": "171",
+    "name_uz": "Katta Turk"
+  },
+  {
+    "id": "2137",
+    "district_id": "171",
+    "name_uz": "Qum Qiyali"
+  },
+  {
+    "id": "2138",
+    "district_id": "171",
+    "name_uz": "Toptiqsaroy"
+  },
+  {
+    "id": "2139",
+    "district_id": "171",
+    "name_uz": "Tumor"
+  },
+  {
+    "id": "2140",
+    "district_id": "171",
+    "name_uz": "Yuqori Urganji"
+  },
+  {
+    "id": "2141",
+    "district_id": "171",
+    "name_uz": "Yangi zamon"
+  },
+  {
+    "id": "2143",
+    "district_id": "186",
+    "name_uz": "Kaldo'shan"
+  },
+  {
+    "id": "2144",
+    "district_id": "186",
+    "name_uz": "Qo'qonboy"
+  },
+  {
+    "id": "2145",
+    "district_id": "186",
+    "name_uz": "Tomosha"
+  },
+  {
+    "id": "2146",
+    "district_id": "186",
+    "name_uz": "Chek chuvaldak"
+  },
+  {
+    "id": "2147",
+    "district_id": "186",
+    "name_uz": "Shoyinbek"
+  },
+  {
+    "id": "2148",
+    "district_id": "186",
+    "name_uz": "Eski"
+  },
+  {
+    "id": "2149",
+    "district_id": "186",
+    "name_uz": "Eshon"
+  },
+  {
+    "id": "2150",
+    "district_id": "172",
+    "name_uz": "Yozyovon"
+  },
+  {
+    "id": "2151",
+    "district_id": "172",
+    "name_uz": "Yozyovon chek"
+  },
+  {
+    "id": "2153",
+    "district_id": "172",
+    "name_uz": "Qorasoqol"
+  },
+  {
+    "id": "2155",
+    "district_id": "172",
+    "name_uz": "Kelajak"
+  },
+  {
+    "id": "2156",
+    "district_id": "172",
+    "name_uz": "Quyi Soybo'yi"
+  },
+  {
+    "id": "2157",
+    "district_id": "172",
+    "name_uz": "Toshxovuz"
+  },
+  {
+    "id": "2159",
+    "district_id": "175",
+    "name_uz": "Muqimiy"
+  },
+  {
+    "id": "2160",
+    "district_id": "174",
+    "name_uz": "Arsif"
+  },
+  {
+    "id": "2161",
+    "district_id": "174",
+    "name_uz": "Valik"
+  },
+  {
+    "id": "2162",
+    "district_id": "174",
+    "name_uz": "Qo'chqorchi"
+  },
+  {
+    "id": "2163",
+    "district_id": "174",
+    "name_uz": "Muyon"
+  },
+  {
+    "id": "2164",
+    "district_id": "174",
+    "name_uz": "Isfayramsoy"
+  },
+  {
+    "id": "2165",
+    "district_id": "174",
+    "name_uz": "So'fon"
+  },
+  {
+    "id": "2166",
+    "district_id": "177",
+    "name_uz": "Yangi Marg'ilon"
+  },
+  {
+    "id": "2167",
+    "district_id": "187",
+    "name_uz": "Bog'ot"
+  },
+  {
+    "id": "2169",
+    "district_id": "187",
+    "name_uz": "Oltinqum"
+  },
+  {
+    "id": "2171",
+    "district_id": "187",
+    "name_uz": "Yangiqadam"
+  },
+  {
+    "id": "2172",
+    "district_id": "188",
+    "name_uz": "Gurlan"
+  },
+  {
+    "id": "2173",
+    "district_id": "188",
+    "name_uz": "Chakkalar"
+  },
+  {
+    "id": "2174",
+    "district_id": "188",
+    "name_uz": "Bo'zqal'a"
+  },
+  {
+    "id": "2175",
+    "district_id": "188",
+    "name_uz": "Nurzamin"
+  },
+  {
+    "id": "2176",
+    "district_id": "188",
+    "name_uz": "Nukus yop"
+  },
+  {
+    "id": "2177",
+    "district_id": "188",
+    "name_uz": "Markaziy Guliston"
+  },
+  {
+    "id": "2178",
+    "district_id": "188",
+    "name_uz": "Do'simbiy"
+  },
+  {
+    "id": "2179",
+    "district_id": "188",
+    "name_uz": "Taxtako'pir"
+  },
+  {
+    "id": "2180",
+    "district_id": "188",
+    "name_uz": "Yormish"
+  },
+  {
+    "id": "2181",
+    "district_id": "189",
+    "name_uz": "Qo'shko'pir"
+  },
+  {
+    "id": "2182",
+    "district_id": "189",
+    "name_uz": "Qoromon"
+  },
+  {
+    "id": "2183",
+    "district_id": "189",
+    "name_uz": "O'rta qishloq"
+  },
+  {
+    "id": "2184",
+    "district_id": "189",
+    "name_uz": "Xonbod"
+  },
+  {
+    "id": "2185",
+    "district_id": "189",
+    "name_uz": "Shixmashhad"
+  },
+  {
+    "id": "2187",
+    "district_id": "190",
+    "name_uz": "Cholish"
+  },
+  {
+    "id": "2190",
+    "district_id": "190",
+    "name_uz": "Ko'palik"
+  },
+  {
+    "id": "2191",
+    "district_id": "190",
+    "name_uz": "Gardonlar"
+  },
+  {
+    "id": "2192",
+    "district_id": "193",
+    "name_uz": "Xazorasp"
+  },
+  {
+    "id": "2193",
+    "district_id": "193",
+    "name_uz": "Oq yop"
+  },
+  {
+    "id": "2194",
+    "district_id": "193",
+    "name_uz": "Oyok ovvo"
+  },
+  {
+    "id": "2195",
+    "district_id": "193",
+    "name_uz": "Nurxayot"
+  },
+  {
+    "id": "2196",
+    "district_id": "219",
+    "name_uz": "Pitnak"
+  },
+  {
+    "id": "2197",
+    "district_id": "194",
+    "name_uz": "Xonqa"
+  },
+  {
+    "id": "2199",
+    "district_id": "194",
+    "name_uz": "Madaniy yer"
+  },
+  {
+    "id": "2201",
+    "district_id": "194",
+    "name_uz": "Yosh kuch"
+  },
+  {
+    "id": "2202",
+    "district_id": "192",
+    "name_uz": "Gullanbog'"
+  },
+  {
+    "id": "2203",
+    "district_id": "192",
+    "name_uz": "Parchanxos"
+  },
+  {
+    "id": "2205",
+    "district_id": "192",
+    "name_uz": "Sho'r-Qal'a"
+  },
+  {
+    "id": "2206",
+    "district_id": "192",
+    "name_uz": "Yuqori qo'm"
+  },
+  {
+    "id": "2207",
+    "district_id": "192",
+    "name_uz": "Hamkor"
+  },
+  {
+    "id": "2208",
+    "district_id": "195",
+    "name_uz": "Shovot"
+  },
+  {
+    "id": "2209",
+    "district_id": "195",
+    "name_uz": "Bo'yrochi"
+  },
+  {
+    "id": "2210",
+    "district_id": "195",
+    "name_uz": "Ipakchi"
+  },
+  {
+    "id": "2211",
+    "district_id": "195",
+    "name_uz": "Kangli"
+  },
+  {
+    "id": "2212",
+    "district_id": "195",
+    "name_uz": "Qat-qal'a"
+  },
+  {
+    "id": "2213",
+    "district_id": "195",
+    "name_uz": "Monoq"
+  },
+  {
+    "id": "2217",
+    "district_id": "196",
+    "name_uz": "Soburzon"
+  },
+  {
+    "id": "2218",
+    "district_id": "196",
+    "name_uz": "Suvgan"
+  },
+  {
+    "id": "2219",
+    "district_id": "196",
+    "name_uz": "Tagan"
+  },
+  {
+    "id": "2220",
+    "district_id": "196",
+    "name_uz": "Qo'shloq"
+  },
+  {
+    "id": "2222",
+    "district_id": "197",
+    "name_uz": "Yangi yop"
+  },
+  {
+    "id": "2223",
+    "district_id": "197",
+    "name_uz": "Mangitlar"
+  },
+  {
+    "id": "2224",
+    "district_id": "15",
+    "name_uz": "Jumurtov"
+  },
+  {
+    "id": "2225",
+    "district_id": "15",
+    "name_uz": "Kipshak"
+  },
+  {
+    "id": "2226",
+    "district_id": "15",
+    "name_uz": "Kilichboy"
+  },
+  {
+    "id": "2228",
+    "district_id": "16",
+    "name_uz": "Beruniy"
+  },
+  {
+    "id": "2229",
+    "district_id": "16",
+    "name_uz": "Bulish"
+  },
+  {
+    "id": "2230",
+    "district_id": "222",
+    "name_uz": "Aspantay"
+  },
+  {
+    "id": "2231",
+    "district_id": "222",
+    "name_uz": "Yerkindarya"
+  },
+  {
+    "id": "2232",
+    "district_id": "222",
+    "name_uz": "Ko'k-suv"
+  },
+  {
+    "id": "2233",
+    "district_id": "222",
+    "name_uz": "Qusqanatov"
+  },
+  {
+    "id": "2234",
+    "district_id": "19",
+    "name_uz": "Qorao'zak"
+  },
+  {
+    "id": "2236",
+    "district_id": "17",
+    "name_uz": "Kegeyli"
+  },
+  {
+    "id": "2238",
+    "district_id": "19",
+    "name_uz": "Jasliq"
+  },
+  {
+    "id": "2239",
+    "district_id": "19",
+    "name_uz": "Qaraqalpaqstan"
+  },
+  {
+    "id": "2240",
+    "district_id": "19",
+    "name_uz": "Qiriqqiz"
+  },
+  {
+    "id": "2242",
+    "district_id": "19",
+    "name_uz": "Yelabad"
+  },
+  {
+    "id": "2243",
+    "district_id": "18",
+    "name_uz": "Qanliko'l"
+  },
+  {
+    "id": "2244",
+    "district_id": "21",
+    "name_uz": "Mo'ynoq"
+  },
+  {
+    "id": "2245",
+    "district_id": "22",
+    "name_uz": "Oqmang'it"
+  },
+  {
+    "id": "2246",
+    "district_id": "209",
+    "name_uz": "Taxiatosh"
+  },
+  {
+    "id": "2247",
+    "district_id": "209",
+    "name_uz": "Naymanko'l"
+  },
+  {
+    "id": "2250",
+    "district_id": "25",
+    "name_uz": "Miskin"
+  },
+  {
+    "id": "2251",
+    "district_id": "25",
+    "name_uz": "Turkmankuli"
+  },
+  {
+    "id": "2252",
+    "district_id": "25",
+    "name_uz": "Tozabog'"
+  },
+  {
+    "id": "2253",
+    "district_id": "25",
+    "name_uz": "Nurli yo'l"
+  },
+  {
+    "id": "2255",
+    "district_id": "26",
+    "name_uz": "Xo'jayli"
+  },
+  {
+    "id": "2256",
+    "district_id": "26",
+    "name_uz": "Vodnik"
+  },
+  {
+    "id": "2258",
+    "district_id": "27",
+    "name_uz": "Ayteke"
+  },
+  {
+    "id": "2259",
+    "district_id": "28",
+    "name_uz": "Shumanay"
+  },
+  {
+    "id": "2261",
+    "district_id": "29",
+    "name_uz": "Saxtiyon"
+  },
+  {
+    "id": "2262",
+    "district_id": "23",
+    "name_uz": "Karatau"
+  },
+  {
+    "id": "2263",
+    "district_id": "225",
+    "name_uz": "Yettitom"
+  }
+]

@@ -1,0 +1,502 @@
+{
+  "pages": {
+    "auth": {
+      "title": "Login",
+      "head": "Xush kelibsiz!",
+      "desc": "Iltimos, login va parolingizni kiriting",
+      "fields": {
+        "passwd": "Parol"
+      },
+      "buttons": {
+        "login": "Kirish",
+        "logout": "Chiqish",
+        "profile": "Profil"
+      },
+      "messages": {
+        "required": {
+          "passwd": "Iltimos, parolingizni kiriting"
+        }
+      }
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "tabs": {
+        "month": "Oy",
+        "week": "Hafta",
+        "day": "Kun"
+      },
+      "most": {
+        "activeUser": "Eng faol foydalanuvchi",
+        "activeRegion": "Eng faol viloyat",
+        "activeProduct": "Eng faol mahsulot"
+      },
+      "status": {
+        "title": "Holatlar",
+        "toLogistician": "Logistlarda",
+        "toCourier": "Kuryerlarda",
+        "pending": "Kutilmoqda",
+        "canceled": "Bekor qilinganlar",
+        "delivered": "Muvaffaqiyatli yetkazilganlar"
+      },
+      "noOrders": "Hozircha buyurtmalar yo'q",
+      "ordersCount": "Buyurtmalar soni",
+      "numberOfSales": "Sotilganlar soni",
+      "calendar": "Kalendar"
+    },
+    "profile": {
+      "uploadImage": "Rasm yuklash"
+    },
+    "users": {
+      "title": "Foydalanuvchilar",
+      "columns": {
+        "name": "Ism",
+        "username": "Username",
+        "salary": "Ish haqi",
+        "passwd": "Parol",
+        "role": "Rol",
+        "shift": "Smenasi",
+        "isBoss": "Rahbar",
+        "yes": "Ha",
+        "no": "Yo'q",
+        "createdAt": "Yaratilgan"
+      },
+      "search": {
+        "placeholder": "Username bo'yicha"
+      },
+      "create": {
+        "title": "Foydalanuvchi yaratish",
+        "buttons": {
+          "create": "Foydalanuvchi yaratish",
+          "back": "Orqaga"
+        },
+        "fields": {
+          "name": "Ism",
+          "username": "Username",
+          "salary": "Ish haqi",
+          "passwd": "Parol",
+          "role": "Rol",
+          "shift": "Smena",
+          "isBoss": "Rahbar?",
+          "assistants": "Yordamchilar"
+        },
+        "messages": {
+          "required": "Ushbu maydon faqat rol tanlangandan so'ng ishlaydi!"
+        },
+        "image": "Rasm"
+      },
+      "edit": {
+        "title": "Foydalanuvchini tahrirlash",
+        "buttons": {
+          "save": "Saqlash",
+          "back": "Orqaga"
+        },
+        "image": "Rasm"
+      }
+    },
+    "orders": {
+      "title": "Buyurtmalar",
+      "search": {
+        "placeholder": "(F.I.O, Telefon raqam, Viloyatlar, Manzillar bo'yicha)"
+      },
+      "table": {
+        "columns": {
+          "status": "Holat",
+          "fullName": "F.I.O",
+          "phoneNumber": "Telefon raqami",
+          "products": "Mahsulotlar",
+          "location": "Joylashuvi",
+          "operators": "Operatorlar",
+          "logisticians": "Logistlar",
+          "couriers": "Kuryerlar",
+          "shifts": "Smenalar",
+          "address": "Manzil",
+          "regions": "Viloyatlar",
+          "createdAt": "Yaratilgan",
+          "updatedAt": "Yangilangan"
+        },
+        "rowActions": {
+          "see": "Ko'rish",
+          "edit": "Tahrirlash",
+          "cancel": "Bekor qilish",
+          "delete": "O'chirish"
+        }
+      },
+      "create": {
+        "title": "Buyurtma yaratish",
+        "fields": {
+          "fullName": "To'liq ism",
+          "phoneNumber": "Telefon raqami",
+          "selPayments": "To'lov turini tanlang",
+          "selProducts": "Mahsulotlarni tanlang",
+          "regions": "Viloyatlar",
+          "districts": "Shahar va tumanlar",
+          "villages": "Qishloqlar",
+          "address": "Manzil",
+          "selLogistician": "Logistni tanlang"
+        },
+        "buttons": {
+          "save": "Buyurtma yaratish",
+          "back": "Orqaga"
+        },
+        "messages": {
+          "required": "Iltimos, rolni tanlang: admin, logist, kuryer, buxgalter, operator."
+        }
+      },
+      "details": {
+        "title": "Buyurtma tafsilotlari",
+        "edit": "Tahrirlash",
+        "delete": "O'chirish",
+        "back": "Orqaga",
+        "fields": {
+          "fullName": "To'liq ism",
+          "createdAt": "Buyurtma yaratilgan vaqt",
+          "createdBy": "Yaratuvchi",
+          "responsibleLogistician": "Javobgar logist",
+          "responsibleCourier": "Javobgar kuryer",
+          "status": "Buyurtma holati",
+          "phoneNumber": "Telefon raqami",
+          "products": "Mahsulotlar",
+          "location": "Joylashuv",
+          "address": "Manzil",
+          "paymentsType": "To'lov turi",
+          "editingHistory": "Tahrirlash tarixi"
+        },
+        "requireMsg": "Faqat operator va logist bu yerda o'zgartirish kiritishi mumkin",
+        "enterMessage": "Xabaringizni kiriting..."
+      },
+      "edit": {
+        "title": "buyurtmasini tahrirlash",
+        "fields": {
+          "addCourier": "Buyurtmaga kuryerni qo'shing"
+        },
+        "placeholder": "Kuryerni tanlang",
+        "buttons": {
+          "back": "Orqaga qaytish",
+          "update": "Buyurtmani yangilash"
+        }
+      }
+    },
+    "accountant": {
+      "title": "Hisob-kitob",
+      "search": {
+        "placeholder": "Ism bo'yicha",
+        "table": {
+          "columns": {
+            "name": "Ism",
+            "totalPrice": "Umumiy narx",
+            "count": "Miqdori"
+          }
+        }
+      },
+      "table": {
+        "columns": {
+          "name": "Ism",
+          "totalPrice": "Umumiy narx",
+          "quantity": "Miqdori"
+        }
+      }
+    },
+    "settings": {
+      "products": {
+        "title": "Mahsulotlar",
+        "table": {
+          "columns": {
+            "title": "Nomi",
+            "price": "Narxi",
+            "comment": "Izoh",
+            "createdAt": "Yaratilgan vaqti"
+          }
+        },
+        "buttons": {
+          "add": "Qo'shish"
+        },
+        "create": {
+          "title": "Mahsulot yaratish",
+          "fields": {
+            "heading": "Nomi",
+            "price": "Narxi",
+            "comment": "Izoh"
+          },
+          "buttons": {
+            "create": "Yaratish",
+            "back": "Orqaga"
+          },
+          "placeholder": {
+            "enterTitle": "Nomini kiriting",
+            "enterComment": "Izoh kiriting"
+          }
+        },
+        "edit": {
+          "title": "Mahsulotni tahrirlash",
+          "fields": {
+            "heading": "Nomi",
+            "price": "Narxi",
+            "comment": "Izoh"
+          },
+          "buttons": {
+            "save": "O'zgarishlarni saqlash",
+            "back": "Orqaga"
+          }
+        },
+        "details": {
+          "product": "Mahsulot",
+          "title": "Sarlavha",
+          "price": "Narxi",
+          "comment": "Izoh",
+          "buttons": {
+            "back": "Orqaga",
+            "change": "O'zgartirish"
+          }
+        }
+      },
+      "location": {
+        "title": "Joylashuvlar manzili",
+        "table": {
+          "columns": {
+            "location": "Joylashuv",
+            "address": "Manzil",
+            "createdAt": "Yaratilgan vaqti"
+          }
+        },
+        "search": {
+          "placeholder": "Joylashuv bo'yicha"
+        }
+      }
+    },
+    "404": {
+      "title": "Ehtimol! Sahifa topilmadi!",
+      "head": "Siz qidirayotgan sahifa",
+      "desc": "mavjud emas yoki o'chirilgan bo'lishi mumkin.",
+      "buttons": {
+        "back": "Orqaga qaytish",
+        "backHome": "Bosh sahifaga qaytish"
+      }
+    }
+  },
+  "global": {
+    "table": {
+      "buttons": {
+        "edit": "Tahrirlash",
+        "delete": "O'chirish",
+        "see": "Ko'rish",
+        "cancel": "Bekor qilish",
+        "disable": "Faolsizlashtirish",
+        "enable": "Faollashtirish"
+      },
+      "search": {
+        "title": "Izlash",
+        "placeholder": "Sarlavha bo'yicha"
+      },
+      "toolbar": {
+        "clear": "Tozalash",
+        "noResults": "Topilmadi"
+      },
+      "colHead": {
+        "asc": "Ko'tarish",
+        "dec": "Pasaytirish",
+        "hide": "Yashirish"
+      },
+      "pagination": {
+        "page": "Sahifa",
+        "of": "ning",
+        "totalOrders": "Jami buyurtmalar",
+        "totalUsers": "Jami foydalanuvchilar",
+        "totalProducts": "Jami mahsulotlar",
+        "totalLocations": "Jami joylashuvlar manzillari",
+        "totalAccountant": "Jami hisob-kitoblar"
+      },
+      "emptyData": "Maʼlumotlar mavjud emas"
+    },
+    "selectPlaceholder": "tanlang",
+    "createdAt": "Yaratilindi",
+    "messages": {
+      "required": {
+        "field": "Ushbu maydon majburiy",
+        "minLength": "Kamida {{count}}ta belgidan iborat bo'lishi shart"
+      }
+    },
+    "multiselect": {
+      "search": {
+        "title": "Qidirish...",
+        "noResults": "Hech qanday natija topilmadi"
+      },
+      "clear": "Tozalash",
+      "close": "Yopish",
+      "selectAll": "Select All"
+    },
+    "order": {
+      "created": {
+        "title": "Yangi buyurtma",
+        "desc": "Yangi buyurtma qabul qilindi. Iltimos, ma'lumotlarni tekshiring."
+      },
+      "updated": {
+        "title": "Buyurtma yangilandi",
+        "desc": "Buyurtma yangilandi. Iltimos, ma'lumotlarni tekshiring."
+      }
+    }
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "users": "Foydalanuvchilar",
+    "orders": "Buyurtmalar",
+    "accountant": "Hisob-kitob",
+    "warehouse": "Ombor",
+    "settings": {
+      "title": "Sozlamalar",
+      "products": "Mahsulotlar",
+      "locations": "Joylashuv manzillari"
+    }
+  },
+  "toastMessages": {
+    "auth": {
+      "success": {
+        "title": "Kirish muvaffaqiyatli!",
+        "desc": "Siz muvaffaqiyatli kirish qildingiz."
+      },
+      "error": {
+        "title": "Kirish xatosi!",
+        "desc": "Login yoki parol noto'g'ri.",
+        "unauthorized": {
+          "title": "Kirish xatosi!",
+          "message": "Parolingiz mos kelmadi, qaytadan urinib ko'ring"
+        }
+      }
+    },
+    "users": {
+      "create": {
+        "success": {
+          "title": "Foydalanuvchi yaratildi",
+          "desc": "Foydalanuvchi muvaffaqiyatli yaratildi."
+        },
+        "error": {
+          "title": "Foydalanuvchini yaratishda Xatolik!",
+          "desc": "Foydalanuvchini yaratishda xatolik yuz berdi. Iltimos, qaytadan urinib ko'ring.",
+          "duplicate": {
+            "title": "Takroriy foydalanuvchi xatosi!",
+            "desc": "Ushbu ma'lumotga ega foydalanuvchi allaqachon mavjud."
+          }
+        }
+      },
+      "edit": {
+        "success": {
+          "title": "Foydalanuvchi yangilandi",
+          "desc": "Foydalanuvchi muvaffaqiyatli yangilandi."
+        },
+        "error": {
+          "title": "Foydalanuvchini yangilashda Xatolik!",
+          "desc": "Foydalanuvchini yangilashda xatolik yuz berdi. Iltimos, qaytadan urinib ko'ring."
+        }
+      },
+      "delete": {
+        "success": {
+          "title": "Foydalanuvchi o'chirildi",
+          "desc": "Foydalanuvchi muvaffaqiyatli o'chirildi."
+        },
+        "error": {
+          "title": "Foydalanuvchini o'chirishda Xatolik!",
+          "desc": "Foydalanuvchini o'chirishda xatolik yuz berdi. Iltimos, qaytadan urinib ko'ring."
+        }
+      },
+      "actions": {
+        "disable": {
+          "success": {
+            "title": "Foydalanuvchi faolsizlashtirildi!",
+            "desc": "Foydalanuvchi muvaffaqiyatli faolsizlashtirildi."
+          },
+          "error": {
+            "title": "Foydalanuvchini faolsizlantirishda xatolik!",
+            "desc": "Foydalanuvchini faolsizlantirishda muammo yuz berdi. Iltimos, qayta urinib ko'ring."
+          }
+        },
+        "enable": {
+          "success": {
+            "title": "Foydalanuvchi faollashtirildi!",
+            "desc": "Foydalanuvchi muvaffaqiyatli faollashtirildi."
+          },
+          "error": {
+            "title": "Foydalanuvchini faollashtirishda xatolik!",
+            "desc": "Foydalanuvchini faollashtirishda muammo yuz berdi. Iltimos, qayta urinib ko'ring."
+          }
+        }
+      }
+    },
+    "orders": {
+      "create": {
+        "success": {
+          "title": "Buyurtma yaratildi",
+          "desc": "Buyurtma muvaffaqiyatli yaratildi."
+        },
+        "error": {
+          "title": "Buyurtma yaratishda xato!",
+          "desc": "Buyurtma yaratishda xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
+        }
+      },
+      "delete": {
+        "success": {
+          "title": "Buyurtma o'chirildi",
+          "desc": "Buyurtma muvaffaqiyatli o'chirildi."
+        },
+        "error": {
+          "title": "Buyurtmani o'chirishda xato!",
+          "desc": "Buyurtmani o'chirishda xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
+        }
+      },
+      "update": {
+        "success": {
+          "title": "Buyurtma yangilandi",
+          "desc": "Buyurtma muvaffaqiyatli yangilandi."
+        },
+        "error": {
+          "title": "Buyurtmani yangilashda xato!",
+          "desc": "Buyurtmani yangilashda xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
+        }
+      }
+    },
+    "settings": {
+      "products": {
+        "create": {
+          "success": {
+            "title": "Mahsulot yaratildi",
+            "desc": "Mahsulot muvaffaqiyatli yaratildi."
+          },
+          "error": {
+            "title": "Mahsulot yaratishda xato!",
+            "desc": "Mahsulot yaratishda xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
+          }
+        },
+        "update": {
+          "success": {
+            "title": "Mahsulot yangilandi",
+            "desc": "Mahsulot muvaffaqiyatli yangilandi."
+          },
+          "error": {
+            "title": "Mahsulotni yangilashda xato!",
+            "desc": "Mahsulotni yangilashda xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
+          }
+        },
+        "delete": {
+          "success": {
+            "title": "Mahsulot o'chirildi",
+            "desc": "Mahsulot muvaffaqiyatli o'chirildi."
+          },
+          "error": {
+            "title": "Mahsulotni o'chirishda xato!",
+            "desc": "Mahsulotni o'chirishda xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
+          }
+        }
+      }
+    },
+    "500": {
+      "title": "Serverda xatolik!",
+      "desc": "Serverda xatolik kuzatilindi! Tez orada barchasi ishga tushadi!"
+    }
+  },
+  "roles": {
+    "admin": "Admin",
+    "logistician": "Logist",
+    "courier": "Kuryer",
+    "accountant": "Hisobchi - Bugalter",
+    "operator": "Operator",
+    "warehouse": "Ombor nazoratchisi"
+  }
+}
